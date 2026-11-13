@@ -2235,6 +2235,11 @@ hash = "ad215cd8ecda2d49298edc6a4388948cdaeeb9b77cd9206f72c4f6f37d91558b"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "98250d952145b18c452883997e7e675d445bfce33e9afb35bf372040c429a179"
 metafile = true
@@ -2431,7 +2436,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "6b6683fd8ec53d10d4fbef3b3d53922a1aaa8ef4d2e4b52bb819dc451f5d6b3d"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
@@ -2467,6 +2472,11 @@ metafile = true
 [[files]]
 file = "mods/effortless-building.pw.toml"
 hash = "f178041b025b0c1940f13f87faea1c13ea485199eed6658188e03f205837d4bd"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
 metafile = true
 
 [[files]]
