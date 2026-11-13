@@ -2336,7 +2336,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "efc9a3f8d4d0098687667f5ce7be29262202bcba23b0cec29811dcac1b0799fc"
+hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
 metafile = true
 
 [[files]]
@@ -2361,7 +2361,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-coasters-simulated.pw.toml"
-hash = "792656064c1a91d6d5ec6add1e707c3c99b20668be099e836d6adff4703f43ae"
+hash = "d5aad6415413aa777ed89ae55912f33c86757321c7c16c8392ce2e1429b920d5"
 metafile = true
 
 [[files]]
