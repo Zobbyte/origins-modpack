@@ -1,0 +1,69 @@
+{
+	id: "2C0B228EC13DB8F4"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{
+			count: 4
+			id: "6E2DBCDD7E00143A"
+			item: {
+				count: 1
+				id: "cataclysm:ignitium_ingot"
+			}
+			weight: 35.0f
+		}
+		{
+			count: 5
+			id: "5CFDED7CB99F1D97"
+			item: {
+				count: 1
+				id: "cataclysm:cursium_ingot"
+			}
+			weight: 35.0f
+		}
+		{
+			count: 6
+			id: "352752C3636E54AF"
+			item: {
+				count: 1
+				id: "cataclysm:ancient_metal_ingot"
+			}
+			weight: 50.0f
+		}
+		{
+			count: 3
+			id: "4A1857C1BACB5D2D"
+			item: {
+				count: 1
+				id: "cataclysm:witherite_ingot"
+			}
+			weight: 40.0f
+		}
+		{
+			count: 2
+			id: "6E3DD96AAF191DE8"
+			item: {
+				count: 1
+				id: "cataclysm:essence_of_the_storm"
+			}
+			weight: 40.0f
+		}
+		{
+			count: 2
+			id: "2929E35C46B9F238"
+			item: {
+				count: 1
+				id: "minecraft:nether_star"
+			}
+			weight: 25.0f
+		}
+		{
+			id: "71668E3FCD70DBBF"
+			item: {
+				count: 1
+				id: "sophisticatedbackpacks:stack_upgrade_tier_4"
+			}
+			weight: 5.0f
+		}
+	]
+}

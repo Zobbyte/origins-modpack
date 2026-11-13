@@ -1,0 +1,31 @@
+{
+  "type": "neoorigins:modify_damage",
+  "direction": "in",
+  "multiplier": 0.85,
+  "condition": {
+    "type": "neoorigins:and",
+    "conditions": [
+      {
+        "type": "neoorigins:resource",
+        "resource": "friend_races:knight_brace_time",
+        "comparison": ">",
+        "compare_to": 0
+      },
+      {
+        "type": "neoorigins:armor_value",
+        "comparison": ">=",
+        "compare_to": 8
+      },
+      {
+        "type": "neoorigins:on_ground"
+      },
+      {
+        "type": "neoorigins:not",
+        "condition": {
+          "type": "neoorigins:passenger"
+        }
+      }
+    ]
+  },
+  "hidden": true
+}

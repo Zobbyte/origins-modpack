@@ -1,0 +1,13 @@
+name = "MCA: Quests"
+filename = "mcaquests-1.8.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b960e93f17e13a5af191a77352616d54cda633f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9379080
+project-id = 1579993

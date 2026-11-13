@@ -1,0 +1,19 @@
+{
+  "type": "neoorigins:action_on_hit",
+  "damage_type": "player_attack",
+  "action": "target_effect",
+  "effect": "minecraft:slowness",
+  "duration": 30,
+  "amplifier": 0,
+  "chance": 1.0,
+  "power_condition": {
+    "type": "neoorigins:equipped_item",
+    "equipment_slot": "offhand",
+    "item_condition": {
+      "tag": "c:tools/shield"
+    }
+  },
+  "power_condition_mode": "ALLOW",
+  "name": "power.friend_races.knight_shield.name",
+  "description": "power.friend_races.knight_shield.description"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "neoorigins:multiple",
+  "raw_cod_saturation": {
+    "type": "neoorigins:action_on_event",
+    "hidden": true,
+    "event": "food_finished",
+    "item_condition": { "item": "minecraft:cod" },
+    "entity_action": { "type": "neoorigins:modify_food", "food": 0, "saturation": 4.0 }
+  },
+  "raw_salmon_saturation": {
+    "type": "neoorigins:action_on_event",
+    "hidden": true,
+    "event": "food_finished",
+    "item_condition": { "item": "minecraft:salmon" },
+    "entity_action": { "type": "neoorigins:modify_food", "food": 0, "saturation": 5.0 }
+  },
+  "raw_other_saturation": {
+    "type": "neoorigins:action_on_event",
+    "hidden": true,
+    "event": "food_finished",
+    "item_condition": { "tag": "friend_races:orca_raw_fish_bonus" },
+    "entity_action": { "type": "neoorigins:modify_food", "food": 0, "saturation": 4.0 }
+  }
+}

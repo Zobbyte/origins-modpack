@@ -1,0 +1,269 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "homestead"
+	group: "122F467614FC148E"
+	id: "6FC475462B24CD71"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["4BCC438ACBE87D94"]
+			id: "1691386027B76EFA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0A07E3CF4A8FAB91"
+				table_id: 3112312598910652353L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "0C2F0254B0D53658"
+				item: { count: 1, id: "farmersdelight:cutting_board" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1691386027B76EFA"]
+			id: "136529E0C6710FA3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "274AD83DD21FA559"
+				table_id: 3112312598910652353L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "77B0C761E3FBB55E"
+				item: { count: 1, id: "farmersdelight:stove" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["136529E0C6710FA3"]
+			id: "7FDE3581CDEC2DEA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6AD9909383BA2879"
+				table_id: 3112312598910652353L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "799D70FBCE97E6C7"
+				item: { count: 1, id: "farmersdelight:cooking_pot" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["1691386027B76EFA"]
+			id: "75ED64A11E7A6DEC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7926FE21232A9E84"
+				table_id: 3112312598910652353L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					count: 16L
+					id: "326FAF009EF4CEE1"
+					item: { count: 1, id: "farmersdelight:onion" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "348CD90178CA2D07"
+					item: { count: 1, id: "farmersdelight:tomato" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "5EF38B6B7C547B52"
+					item: { count: 1, id: "farmersdelight:cabbage" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["75ED64A11E7A6DEC"]
+			id: "2CB73284897F4FFE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6E57758279F61401"
+				table_id: 3112312598910652353L
+				type: "loot"
+			}]
+			tasks: [{
+				count: 32L
+				id: "49BA2652FA276FAF"
+				item: { count: 1, id: "farmersdelight:rice" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["75ED64A11E7A6DEC"]
+			id: "2525CC95C14D3C8B"
+			rewards: [
+				{
+					count: 16
+					id: "77D7D14AD15DDE85"
+					item: {
+						count: 1
+						id: "farmersdelight:organic_compost"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4642B01F3ED2A392"
+					table_id: 3112312598910652353L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "040203024CA2B98F"
+				item: { count: 1, id: "farmersdelight:organic_compost" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7FDE3581CDEC2DEA"]
+			id: "711B099F6E07870B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "59F04A27C6FE8EA5"
+				table_id: 3112312598910652353L
+				type: "loot"
+			}]
+			tasks: [{
+				count: 4L
+				id: "06E931F38201015A"
+				item: { count: 1, id: "farmersdelight:beef_stew" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["75ED64A11E7A6DEC"]
+			id: "18FC8D153A89EA7E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5B33F7550FEC1664"
+				table_id: 3112312598910652353L
+				type: "loot"
+			}]
+			tasks: [{
+				count: 32L
+				id: "245283712080F233"
+				item: { count: 1, id: "farmersdelight:straw" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7FDE3581CDEC2DEA"]
+			id: "67B87554E49E2206"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "197CE1BE87C236B8"
+				table_id: 3112312598910652353L
+				type: "loot"
+			}]
+			tasks: [{
+				count: 4L
+				id: "1DC3DF076BD65282"
+				item: { count: 1, id: "farmersdelight:chicken_soup" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"67B87554E49E2206"
+				"711B099F6E07870B"
+			]
+			id: "5D342A8ACC5A4419"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "75D2AF568127611F"
+					table_id: 3112312598910652353L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "456327AA5E2ECA29"
+					table_id: 3112312598910652353L
+					type: "loot"
+				}
+			]
+			tasks: [
+				{
+					id: "5AEEA22D3648C948"
+					item: { count: 1, id: "farmersdelight:roast_chicken_block" }
+					type: "item"
+				}
+				{
+					id: "28E63EB26B1C6A20"
+					item: { count: 1, id: "farmersdelight:stuffed_pumpkin_block" }
+					type: "item"
+				}
+				{
+					id: "75AA2788BAF29AD6"
+					item: { count: 1, id: "farmersdelight:honey_glazed_ham_block" }
+					type: "item"
+				}
+				{
+					id: "10B2A2958D3EE2B9"
+					item: { count: 1, id: "farmersdelight:shepherds_pie_block" }
+					type: "item"
+				}
+				{
+					id: "6F1CBC7A641CB534"
+					item: { count: 1, id: "farmersdelight:gleaming_salad_block" }
+					type: "item"
+				}
+				{
+					id: "529B1B24E591EBCF"
+					item: { count: 1, id: "farmersdelight:rice_roll_medley_block" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["711B099F6E07870B"]
+			id: "73ACFB28A0416806"
+			optional: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2F4232099B62F709"
+				table_id: 3112312598910652353L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "21ECB05001FB9F5B"
+				item: { count: 1, id: "farmersdelight:diamond_knife" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -4.0d
+		}
+	]
+}

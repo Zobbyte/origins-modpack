@@ -1,0 +1,17 @@
+{
+  "replace": true,
+  "order": 0,
+  "name": {
+    "text": "Friend Races"
+  },
+  "origins": [
+    "friend_races:orca",
+    "friend_races:watermelon",
+    "friend_races:shy_guy",
+    "friend_races:knight",
+    "friend_races:human"
+  ],
+  "allow_random": false,
+  "enabled": true,
+  "hidden": false
+}

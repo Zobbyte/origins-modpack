@@ -1,0 +1,9 @@
+{
+  "type": "origins:modify_xp_gain",
+  "modifier": {
+    "operation": "multiply_total",
+    "value": 0.15
+  },
+  "name": "power.friend_races.human_study.name",
+  "description": "power.friend_races.human_study.description"
+}

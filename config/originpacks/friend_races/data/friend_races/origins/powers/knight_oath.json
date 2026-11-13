@@ -1,0 +1,9 @@
+{
+  "type": "neoorigins:modify_damage",
+  "direction": "out",
+  "damage_type": "player_attack",
+  "target_group": "undead",
+  "multiplier": 1.2,
+  "name": "power.friend_races.knight_oath.name",
+  "description": "power.friend_races.knight_oath.description"
+}

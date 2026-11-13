@@ -1,0 +1,7 @@
+{
+  "type": "neoorigins:action_on_event",
+  "event": "hit_dealt",
+  "condition": { "type": "neoorigins:resource", "resource": "friend_races:knight_counter_time", "comparison": ">", "compare_to": 0 },
+  "entity_action": { "type": "neoorigins:set_resource", "resource": "friend_races:knight_counter_time", "value": 0 },
+  "hidden": true
+}

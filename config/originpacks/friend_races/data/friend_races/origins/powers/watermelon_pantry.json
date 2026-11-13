@@ -1,0 +1,7 @@
+{
+  "type": "neoorigins:modify_food_nutrition",
+  "food_item": "minecraft:melon_slice",
+  "nutrition": 4,
+  "name": "power.friend_races.watermelon_pantry.name",
+  "description": "power.friend_races.watermelon_pantry.description"
+}

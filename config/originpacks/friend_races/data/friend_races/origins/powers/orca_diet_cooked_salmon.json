@@ -1,0 +1,6 @@
+{
+  "type": "neoorigins:modify_food_nutrition",
+  "hidden": true,
+  "food_item": "minecraft:cooked_salmon",
+  "nutrition": 10
+}

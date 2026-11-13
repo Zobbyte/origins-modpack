@@ -1,0 +1,8 @@
+{
+  "type": "neoorigins:attribute_modifier",
+  "attribute": "minecraft:generic.oxygen_bonus",
+  "amount": 6,
+  "operation": "add_value",
+  "name": "power.friend_races.orca_lungs.name",
+  "description": "power.friend_races.orca_lungs.description"
+}

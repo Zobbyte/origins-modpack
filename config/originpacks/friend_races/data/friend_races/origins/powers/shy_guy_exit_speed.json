@@ -1,0 +1,13 @@
+{
+  "type": "neoorigins:attribute_modifier",
+  "attribute": "minecraft:generic.movement_speed",
+  "amount": 0.25,
+  "operation": "add_multiplied_total",
+  "condition": {
+    "type": "neoorigins:resource",
+    "resource": "friend_races:shy_guy_exit_time",
+    "comparison": ">",
+    "compare_to": 0
+  },
+  "hidden": true
+}

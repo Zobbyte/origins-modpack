@@ -1,0 +1,6 @@
+{
+  "type": "neoorigins:modify_food_nutrition",
+  "hidden": true,
+  "food_tag": "#friend_races:orca_cooked_fish_bonus",
+  "nutrition": 8
+}

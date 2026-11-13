@@ -1,0 +1,27 @@
+{
+  "name": "origins.friend_races.knight.name",
+  "description": "origins.friend_races.knight.description",
+  "icon": "minecraft:shield",
+  "impact": "medium",
+  "order": 3,
+  "powers": [
+    "friend_races:knight_health",
+    "friend_races:knight_training",
+    "friend_races:knight_poise",
+    "friend_races:knight_brace_time",
+    "friend_races:knight_brace_time_tick",
+    "friend_races:knight_brace",
+    "friend_races:knight_brace_damage",
+    "friend_races:knight_brace_kb",
+    "friend_races:knight_brace_slow",
+    "friend_races:knight_swim",
+    "friend_races:knight_provisions",
+    "friend_races:knight_shield",
+    "friend_races:knight_oath",
+    "friend_races:knight_counter_time",
+    "friend_races:knight_counter_time_tick",
+    "friend_races:knight_counter_open",
+    "friend_races:knight_counter_damage",
+    "friend_races:knight_counter_consume"
+  ]
+}

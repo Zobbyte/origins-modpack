@@ -1,0 +1,270 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "preparing_for_battle"
+	group: "0EFFDE8ECECEADA2"
+	id: "0571813F219007E3"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "wizards:wand_novice"
+			}
+			id: "33992EC0BAC423A5"
+			rewards: [
+				{
+					id: "7C537FE1D1DA910E"
+					item: {
+						count: 1
+						id: "wizards:wand_novice"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6DEA4D872E7499C3"
+					table_id: 4503475099060974678L
+					type: "choice"
+				}
+				{
+					count: 5
+					id: "62ECA982BC30CFFE"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0AD82DE2C9D0BE0A"
+				type: "checkmark"
+			}]
+			x: -11.5d
+			y: -9.0d
+		}
+		{
+			icon: {
+				id: "archers:composite_longbow"
+			}
+			id: "7DFF0200379558F8"
+			rewards: [
+				{
+					id: "548260744BCB6F37"
+					item: {
+						components: {
+							"minecraft:item_name": "{\"translate\":\"item.archers.spell_book/archer\"}"
+							"spell_engine:item_model": "archers:item/spell_book/archer"
+							"spell_engine:spell_container": {
+								pool: "archers:spell_book/archer"
+							}
+						}
+						count: 1
+						id: "spell_engine:spell_book"
+					}
+					type: "item"
+				}
+				{
+					id: "200BB80985CD250A"
+					item: {
+						count: 1
+						id: "archers:composite_longbow"
+					}
+					type: "item"
+				}
+				{
+					id: "7ED49DA1AA9B41DE"
+					item: {
+						count: 1
+						id: "archers:small_quiver"
+					}
+					type: "item"
+				}
+				{
+					count: 64
+					id: "3BFAC67618A73CAD"
+					item: {
+						count: 1
+						id: "minecraft:arrow"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4DC815E3A2D39E4E"
+				type: "checkmark"
+			}]
+			x: -11.5d
+			y: -11.0d
+		}
+		{
+			icon: {
+				id: "rogues:stone_double_axe"
+			}
+			id: "5391BE4B0B50DC34"
+			rewards: [
+				{
+					id: "7BAEEAA6E2C13A9D"
+					item: {
+						count: 1
+						id: "rogues:stone_double_axe"
+					}
+					type: "item"
+				}
+				{
+					id: "217D719EFABBCD02"
+					item: {
+						components: {
+							"minecraft:item_name": "{\"translate\":\"item.rogues.spell_book/warrior\"}"
+							"spell_engine:item_model": "rogues:item/spell_book/warrior"
+							"spell_engine:spell_container": {
+								pool: "rogues:spell_book/warrior"
+							}
+						}
+						count: 1
+						id: "spell_engine:spell_book"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1A696A90F1F9EAE0"
+				type: "checkmark"
+			}]
+			x: -11.5d
+			y: -7.0d
+		}
+		{
+			icon: {
+				id: "rogues:flint_dagger"
+			}
+			id: "2772CD02F302DD65"
+			rewards: [
+				{
+					count: 2
+					id: "1E88FFB9946BAC2D"
+					item: {
+						count: 1
+						id: "rogues:flint_dagger"
+					}
+					type: "item"
+				}
+				{
+					id: "0F6941DE89B93EB0"
+					item: {
+						components: {
+							"minecraft:item_name": "{\"translate\":\"item.rogues.spell_book/rogue\"}"
+							"spell_engine:item_model": "rogues:item/spell_book/rogue"
+							"spell_engine:spell_container": {
+								pool: "rogues:spell_book/rogue"
+							}
+						}
+						count: 1
+						id: "spell_engine:spell_book"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "355C68FB903FA66C"
+				type: "checkmark"
+			}]
+			x: -11.5d
+			y: -5.0d
+		}
+		{
+			icon: {
+				id: "paladins:stone_claymore"
+			}
+			id: "7C63F9CBD39A7365"
+			rewards: [
+				{
+					id: "51ADB4868D8592BF"
+					item: {
+						count: 1
+						id: "paladins:stone_claymore"
+					}
+					type: "item"
+				}
+				{
+					id: "3E897870D0DA6455"
+					item: {
+						count: 1
+						id: "paladins:iron_kite_shield"
+					}
+					type: "item"
+				}
+				{
+					id: "2271EBC3DAA02CF2"
+					item: {
+						components: {
+							"minecraft:item_name": "{\"translate\":\"item.paladins.spell_book/paladin\"}"
+							"spell_engine:item_model": "paladins:item/spell_book/paladin"
+							"spell_engine:spell_container": {
+								pool: "paladins:spell_book/paladin"
+							}
+						}
+						count: 1
+						id: "spell_engine:spell_book"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "55641FB4A56A96A7"
+				type: "checkmark"
+			}]
+			x: -11.5d
+			y: -3.0d
+		}
+		{
+			icon: {
+				id: "paladins:acolyte_wand"
+			}
+			id: "64879770E913FBAD"
+			rewards: [
+				{
+					id: "5720567F9357FF06"
+					item: {
+						count: 1
+						id: "paladins:acolyte_wand"
+					}
+					type: "item"
+				}
+				{
+					id: "724D96F4A1C7F039"
+					item: {
+						components: {
+							"minecraft:item_name": "{\"translate\":\"item.paladins.spell_book/priest\"}"
+							"spell_engine:item_model": "paladins:item/spell_book/priest"
+							"spell_engine:spell_container": {
+								pool: "paladins:spell_book/priest"
+							}
+						}
+						count: 1
+						id: "spell_engine:spell_book"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "07DF0C0962403985"
+				type: "checkmark"
+			}]
+			x: -11.5d
+			y: -1.0d
+		}
+		{
+			id: "20991E604E1F7590"
+			tasks: [{
+				id: "6137A0CE75264E94"
+				item: { count: 1, id: "spell_engine:spell_binding" }
+				type: "item"
+			}]
+			x: -14.5d
+			y: -6.0d
+		}
+	]
+}

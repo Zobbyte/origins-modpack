@@ -1,0 +1,17 @@
+{
+  "type": "neoorigins:condition_passive",
+  "interval": 10,
+  "entity_action": {
+    "type": "neoorigins:change_resource",
+    "resource": "friend_races:watermelon_roll",
+    "change": -4
+  },
+  "toggleable": false,
+  "condition": {
+    "type": "neoorigins:not",
+    "condition": {
+      "type": "neoorigins:sprinting"
+    }
+  },
+  "hidden": true
+}

@@ -1,0 +1,132 @@
+{
+	id: "77B47E3A6810BA39"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{
+			count: 32
+			id: "2F3B28607F9DBD68"
+			item: {
+				count: 1
+				id: "create:andesite_alloy"
+			}
+			weight: 80.0f
+		}
+		{
+			count: 16
+			id: "6791E0B25FD08C78"
+			item: {
+				count: 1
+				id: "create:cogwheel"
+			}
+			weight: 80.0f
+		}
+		{
+			count: 8
+			id: "2F71A6B4E110255A"
+			item: {
+				count: 1
+				id: "create:large_cogwheel"
+			}
+			weight: 80.0f
+		}
+		{
+			count: 32
+			id: "3632DBE441B561CD"
+			item: {
+				count: 1
+				id: "create:shaft"
+			}
+			weight: 80.0f
+		}
+		{
+			count: 16
+			id: "4CE1F968D35C5020"
+			item: {
+				count: 1
+				id: "create:belt_connector"
+			}
+			weight: 80.0f
+		}
+		{
+			count: 16
+			id: "4E805DBB69BAD5C8"
+			item: {
+				count: 1
+				id: "create:fluid_pipe"
+			}
+			weight: 80.0f
+		}
+		{
+			count: 8
+			id: "37EA7CABDB5A0423"
+			item: {
+				count: 1
+				id: "create:brass_ingot"
+			}
+			weight: 25.0f
+		}
+		{
+			count: 8
+			id: "3FC58049C2ED2EAD"
+			item: {
+				count: 1
+				id: "create:brass_casing"
+			}
+			weight: 25.0f
+		}
+		{
+			count: 8
+			id: "51C3F0E151946E6A"
+			item: {
+				count: 1
+				id: "create:electron_tube"
+			}
+			weight: 35.0f
+		}
+		{
+			count: 3
+			id: "6BED15BDBC13FB6D"
+			item: {
+				count: 1
+				id: "create:precision_mechanism"
+			}
+			weight: 25.0f
+		}
+		{
+			count: 4
+			id: "68902D55E408EE3F"
+			item: {
+				count: 1
+				id: "create:smart_chute"
+			}
+			weight: 35.0f
+		}
+		{
+			id: "1887CEE6A4F44195"
+			item: {
+				count: 1
+				id: "create:blaze_burner"
+			}
+			weight: 20.0f
+		}
+		{
+			count: 128
+			id: "2ABC36F205A2BDFA"
+			item: {
+				count: 1
+				id: "create:track"
+			}
+			weight: 12.0f
+		}
+		{
+			count: 16
+			id: "090C6A2EBCD345A4"
+			item: {
+				count: 1
+				id: "create_enchantment_industry:super_experience_nugget"
+			}
+			weight: 2.0f
+		}
+	]
+}

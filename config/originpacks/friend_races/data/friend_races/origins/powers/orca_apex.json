@@ -1,0 +1,9 @@
+{
+  "type": "neoorigins:action_on_hit",
+  "action": "restore_hunger",
+  "amount": 1,
+  "chance": 0.5,
+  "target_type": "#friend_races:orca_prey",
+  "name": "power.friend_races.orca_apex.name",
+  "description": "power.friend_races.orca_apex.description"
+}

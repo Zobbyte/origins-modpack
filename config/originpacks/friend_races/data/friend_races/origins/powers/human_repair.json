@@ -1,0 +1,11 @@
+{
+  "type": "neoorigins:action_on_event",
+  "event": "mod_anvil_cost",
+  "modifier": {
+    "operation": "multiplication",
+    "value": 0.85
+  },
+  "name": "power.friend_races.human_repair.name",
+  "description": "power.friend_races.human_repair.description"
+}
+

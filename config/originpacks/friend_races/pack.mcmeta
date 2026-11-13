@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "supported_formats": {
+      "min_inclusive": 34,
+      "max_inclusive": 48
+    },
+    "description": "Friend Races 1.0.0 | NeoOrigins 2.2.29 | Minecraft 1.21.1"
+  }
+}

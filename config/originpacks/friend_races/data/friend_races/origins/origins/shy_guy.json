@@ -1,0 +1,27 @@
+{
+  "name": "origins.friend_races.shy_guy.name",
+  "description": "origins.friend_races.shy_guy.description",
+  "icon": "minecraft:carved_pumpkin",
+  "impact": "high",
+  "order": 2,
+  "powers": [
+    "friend_races:shy_guy_soles",
+    "friend_races:shy_guy_tumble",
+    "friend_races:shy_guy_exit_time",
+    "friend_races:shy_guy_exit_time_tick",
+    "friend_races:shy_guy_exit",
+    "friend_races:shy_guy_exit_speed",
+    "friend_races:shy_guy_exit_damage",
+    "friend_races:shy_guy_out_of_sight",
+    "friend_races:shy_guy_arachnophobia_fear",
+    "friend_races:shy_guy_arachnophobia_flee",
+    "friend_races:shy_guy_small",
+    "friend_races:shy_guy_health",
+    "friend_races:shy_guy_crowd",
+    "friend_races:shy_guy_turnip",
+    "friend_races:shy_guy_reveal_time",
+    "friend_races:shy_guy_reveal_on_hit",
+    "friend_races:shy_guy_reveal_on_hurt",
+    "friend_races:shy_guy_reveal_tick"
+  ]
+}

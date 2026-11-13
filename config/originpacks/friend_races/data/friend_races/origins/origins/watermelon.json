@@ -1,0 +1,26 @@
+{
+  "name": "origins.friend_races.watermelon.name",
+  "description": "origins.friend_races.watermelon.description",
+  "icon": "minecraft:melon_slice",
+  "impact": "medium",
+  "order": 1,
+  "powers": [
+    "friend_races:watermelon_rind",
+    "friend_races:watermelon_pantry",
+    "friend_races:watermelon_sun",
+    "friend_races:watermelon_share",
+    "friend_races:watermelon_slow",
+    "friend_races:watermelon_fire",
+    "friend_races:watermelon_glow",
+    "friend_races:watermelon_roll",
+    "friend_races:watermelon_roll_gain",
+    "friend_races:watermelon_roll_decay",
+    "friend_races:watermelon_roll_speed_1",
+    "friend_races:watermelon_roll_speed_2",
+    "friend_races:watermelon_roll_speed_3",
+    "friend_races:watermelon_roll_fall_1",
+    "friend_races:watermelon_roll_fall_2",
+    "friend_races:watermelon_roll_sun_cost",
+    "friend_races:watermelon_photosynthesis"
+  ]
+}

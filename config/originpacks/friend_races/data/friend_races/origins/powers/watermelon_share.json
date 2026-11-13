@@ -1,0 +1,25 @@
+{
+  "type": "neoorigins:active_ability",
+  "entity_action": {
+    "type": "neoorigins:area_of_effect",
+    "radius": 6,
+    "shape": "sphere",
+    "include_source": true,
+    "entity_condition": {
+      "type": "neoorigins:entity_type",
+      "entity_type": "minecraft:player"
+    },
+    "entity_action": {
+      "type": "neoorigins:heal",
+      "amount": 4
+    }
+  },
+  "cooldown_ticks": 1200,
+  "hunger_cost": 2,
+  "cooldown_icon": "minecraft:glistering_melon_slice",
+  "always_show_icon": true,
+  "resource_cost": "friend_races:watermelon_sun",
+  "resource_cost_amount": 30,
+  "name": "power.friend_races.watermelon_share.name",
+  "description": "power.friend_races.watermelon_share.description"
+}

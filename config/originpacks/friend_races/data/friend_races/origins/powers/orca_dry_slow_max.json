@@ -1,0 +1,32 @@
+{
+  "type": "neoorigins:attribute_modifier",
+  "attribute": "minecraft:generic.movement_speed",
+  "amount": -0.15,
+  "operation": "add_multiplied_total",
+  "condition": {
+    "type": "neoorigins:and",
+    "conditions": [
+      {
+        "type": "neoorigins:resource",
+        "resource": "friend_races:orca_reserve",
+        "comparison": "<=",
+        "compare_to": 0
+      },
+      {
+        "type": "neoorigins:not",
+        "condition": {
+          "type": "neoorigins:or",
+          "conditions": [
+            {
+              "type": "neoorigins:in_water"
+            },
+            {
+              "type": "neoorigins:in_rain"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "hidden": true
+}

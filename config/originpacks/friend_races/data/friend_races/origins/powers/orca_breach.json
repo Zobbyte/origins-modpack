@@ -1,0 +1,46 @@
+{
+  "type": "neoorigins:active_ability",
+  "key": 1,
+  "condition": {
+    "type": "neoorigins:and",
+    "conditions": [
+      {
+        "type": "neoorigins:swimming"
+      },
+      {
+        "type": "neoorigins:in_water"
+      }
+    ]
+  },
+  "entity_action": {
+    "type": "neoorigins:and",
+    "actions": [
+      {
+        "type": "neoorigins:add_velocity",
+        "space": "local_horizontal",
+        "z": 0.85
+      },
+      {
+        "type": "neoorigins:add_velocity",
+        "y": 0.85
+      },
+      {
+        "type": "neoorigins:play_sound",
+        "sound": "minecraft:entity.dolphin.jump",
+        "volume": 1.0,
+        "pitch": 0.8
+      },
+      {
+        "type": "neoorigins:set_resource",
+        "resource": "friend_races:orca_breach_time",
+        "value": 80
+      }
+    ]
+  },
+  "cooldown_ticks": 80,
+  "hunger_cost": 0,
+  "cooldown_icon": "minecraft:heart_of_the_sea",
+  "always_show_icon": true,
+  "name": "power.friend_races.orca_breach.name",
+  "description": "power.friend_races.orca_breach.description"
+}

@@ -1,0 +1,10 @@
+{
+  "type": "neoorigins:action_on_event",
+  "event": "mod_exhaustion",
+  "modifier": {
+    "operation": "multiplication",
+    "value": 1.15
+  },
+  "name": "power.friend_races.knight_provisions.name",
+  "description": "power.friend_races.knight_provisions.description"
+}

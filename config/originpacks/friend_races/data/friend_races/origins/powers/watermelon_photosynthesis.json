@@ -1,0 +1,12 @@
+{
+  "type": "neoorigins:condition_passive",
+  "interval": 600,
+  "toggleable": false,
+  "condition": { "type": "neoorigins:and", "conditions": [
+    { "type": "neoorigins:exposed_to_sun" },
+    { "type": "neoorigins:resource", "resource": "friend_races:watermelon_sun", "comparison": ">=", "compare_to": 120 }
+  ]},
+  "entity_action": { "type": "neoorigins:feed", "food": 1, "saturation": 0.3 },
+  "name": "power.friend_races.watermelon_photosynthesis.name",
+  "description": "power.friend_races.watermelon_photosynthesis.description"
+}

@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:zombie",
+    "minecraft:zombie_villager",
+    "minecraft:husk",
+    "minecraft:drowned",
+    "minecraft:skeleton",
+    "minecraft:stray",
+    "minecraft:bogged",
+    "minecraft:wither_skeleton",
+    "minecraft:wither",
+    "minecraft:phantom",
+    "minecraft:zombified_piglin",
+    "minecraft:zoglin",
+    "minecraft:skeleton_horse",
+    "minecraft:zombie_horse",
+    {
+      "id": "#minecraft:sensitive_to_smite",
+      "required": false
+    }
+  ]
+}

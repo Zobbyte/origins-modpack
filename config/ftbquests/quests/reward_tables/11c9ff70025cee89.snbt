@@ -1,0 +1,43 @@
+{
+	id: "11C9FF70025CEE89"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			count: 8
+			id: "052F655FCDF3B26A"
+			item: {
+				count: 1
+				id: "cobblemon:ultra_ball"
+			}
+			weight: 0.5f
+		}
+		{
+			count: 2
+			id: "3C515BC4F1FDE88C"
+			item: {
+				count: 1
+				id: "cobblemon:rare_candy"
+			}
+		}
+		{ id: "5690B218AA2612E0", item: { count: 1, id: "cobblemon:exp_candy_l" } }
+		{
+			count: 4
+			id: "2E708F6651B0B441"
+			item: {
+				count: 1
+				id: "create:precision_mechanism"
+			}
+			weight: 0.5f
+		}
+		{ id: "687305D26169E844", item: { count: 1, id: "minecraft:netherite_scrap" } }
+		{
+			id: "097C9D37785529E9"
+			item: {
+				count: 1
+				id: "farmersdelight:roast_chicken_block"
+			}
+			weight: 0.25f
+		}
+	]
+}

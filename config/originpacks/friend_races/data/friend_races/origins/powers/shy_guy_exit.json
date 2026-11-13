@@ -1,0 +1,14 @@
+{
+  "type": "neoorigins:active_ability",
+  "entity_action": {
+    "type": "neoorigins:set_resource",
+    "resource": "friend_races:shy_guy_exit_time",
+    "value": 120
+  },
+  "cooldown_ticks": 600,
+  "hunger_cost": 2,
+  "cooldown_icon": "minecraft:feather",
+  "always_show_icon": true,
+  "name": "power.friend_races.shy_guy_exit.name",
+  "description": "power.friend_races.shy_guy_exit.description"
+}

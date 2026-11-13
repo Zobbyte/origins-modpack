@@ -1,0 +1,24 @@
+{
+  "type": "neoorigins:active_ability",
+  "entity_action": {
+    "type": "neoorigins:spawn_projectile",
+    "entity_type": "neoorigins:magic_orb",
+    "speed": 1.2,
+    "shape": "sphere",
+    "size": 0.35,
+    "glow_size": 0.5,
+    "orb_color": "#F2F0E6",
+    "glow_color": "#7BC043",
+    "on_hit_action": {
+      "type": "neoorigins:area_of_effect",
+      "radius": 1.5,
+      "include_source": false,
+      "entity_action": { "type": "neoorigins:damage", "amount": 6.0 }
+    }
+  },
+  "cooldown_ticks": 80,
+  "cooldown_icon": "minecraft:beetroot",
+  "always_show_icon": true,
+  "name": "power.friend_races.shy_guy_turnip.name",
+  "description": "power.friend_races.shy_guy_turnip.description"
+}

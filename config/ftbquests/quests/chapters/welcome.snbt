@@ -1,0 +1,142 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome"
+	group: ""
+	id: "4531B26BC8E1C76A"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				components: {
+					"!ftbquests:icon": { }
+					"ftbquests:entity_face": "minecraft:tadpole"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "72F94F163E82737F"
+			rewards: [
+				{
+					count: 16
+					id: "1F167D257F4D5552"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					type: "item"
+				}
+				{
+					id: "02187AAF02DDD21C"
+					item: {
+						count: 1
+						id: "sophisticatedbackpacks:backpack"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0E81A6844B882D42"
+				type: "checkmark"
+			}]
+			x: -12.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["72F94F163E82737F"]
+			id: "01B0804A5B552412"
+			rewards: [{
+				count: 8
+				id: "34C012720370832E"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "cobblemon:root"
+				criterion: ""
+				id: "04D3CCF7513E81E2"
+				type: "advancement"
+			}]
+			x: -12.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["72F94F163E82737F"]
+			icon: {
+				id: "createdeco:yellow_andesite_lamp"
+			}
+			id: "67C7D86C661D2C73"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "432E6680CC81661A"
+				table_id: 8276012092464103969L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "02110FD4E89E9529"
+				type: "checkmark"
+			}]
+			x: -9.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["67C7D86C661D2C73"]
+			id: "1C0518CD4249714A"
+			rewards: [{
+				count: 16
+				id: "5E3440215B330552"
+				item: {
+					count: 1
+					id: "create:andesite_alloy"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 4L
+				id: "06EFB6F2265CE50A"
+				item: { count: 1, id: "create:andesite_alloy" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["72F94F163E82737F"]
+			disable_recipe_mod: false
+			icon: {
+				components: {
+					"ftbquests:icon": "waystones:textures/gui/sprites/groups/player_homes.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5420A2315557FAB6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0BCD772A98203EEB"
+				table_id: 8276012092464103969L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "0C508A001E7B6F13"
+				type: "checkmark"
+			}]
+			x: -9.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["72F94F163E82737F"]
+			id: "4BCC438ACBE87D94"
+			tasks: [{
+				id: "6D0CF5E93F46D725"
+				item: { count: 1, id: "farmersdelight:flint_knife" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: -3.0d
+		}
+	]
+}

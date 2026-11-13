@@ -1,0 +1,18 @@
+{
+  "type": "neoorigins:resource",
+  "min": 0,
+  "max": 120,
+  "start_value": 0,
+  "regen_rate": 1,
+  "regen_interval": 20,
+  "regen_condition": {
+    "type": "neoorigins:exposed_to_sun"
+  },
+  "hud_render": {
+    "label": "Stored sunlight",
+    "color": "#E5BA49",
+    "always_render": true
+  },
+  "name": "power.friend_races.watermelon_sun.name",
+  "description": "power.friend_races.watermelon_sun.description"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "neoorigins:effect_over_time",
+  "activation": "active",
+  "default_off": true,
+  "interval": 80,
+  "hunger_cost": 0,
+  "resource_cost": "friend_races:watermelon_sun",
+  "resource_cost_amount": 5,
+  "entity_action": {
+    "type": "neoorigins:area_of_effect",
+    "radius": 6,
+    "shape": "sphere",
+    "include_source": true,
+    "entity_condition": {
+      "type": "neoorigins:entity_type",
+      "entity_type": "minecraft:player"
+    },
+    "entity_action": {
+      "type": "neoorigins:heal",
+      "amount": 1
+    }
+  },
+  "cooldown_icon": "minecraft:sunflower",
+  "always_show_icon": true,
+  "name": "power.friend_races.watermelon_glow.name",
+  "description": "power.friend_races.watermelon_glow.description"
+}

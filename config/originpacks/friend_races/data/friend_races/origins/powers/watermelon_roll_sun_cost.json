@@ -1,0 +1,31 @@
+{
+  "type": "neoorigins:condition_passive",
+  "interval": 20,
+  "entity_action": {
+    "type": "neoorigins:change_resource",
+    "resource": "friend_races:watermelon_sun",
+    "change": -5
+  },
+  "toggleable": false,
+  "condition": {
+    "type": "neoorigins:and",
+    "conditions": [
+      {
+        "type": "neoorigins:sprinting"
+      },
+      {
+        "type": "neoorigins:resource",
+        "resource": "friend_races:watermelon_roll",
+        "comparison": ">=",
+        "compare_to": 75
+      },
+      {
+        "type": "neoorigins:resource",
+        "resource": "friend_races:watermelon_sun",
+        "comparison": ">",
+        "compare_to": 0
+      }
+    ]
+  },
+  "hidden": true
+}

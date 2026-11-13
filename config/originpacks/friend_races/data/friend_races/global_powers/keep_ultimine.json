@@ -1,0 +1,8 @@
+{
+  "entity_types": [
+    "minecraft:player"
+  ],
+  "powers": [
+    "friend_races:shared_ultimine"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "neoorigins:condition_passive",
+  "interval": 1,
+  "entity_action": {
+    "type": "neoorigins:change_resource",
+    "resource": "friend_races:human_focus_time",
+    "change": -1
+  },
+  "toggleable": false,
+  "condition": {
+    "type": "neoorigins:resource",
+    "resource": "friend_races:human_focus_time",
+    "comparison": ">",
+    "compare_to": 0
+  },
+  "hidden": true
+}

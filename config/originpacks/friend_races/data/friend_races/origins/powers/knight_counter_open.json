@@ -1,0 +1,8 @@
+{
+  "type": "neoorigins:action_on_event",
+  "event": "hit_taken",
+  "condition": { "type": "neoorigins:resource", "resource": "friend_races:knight_brace_time", "comparison": ">", "compare_to": 0 },
+  "entity_action": { "type": "neoorigins:set_resource", "resource": "friend_races:knight_counter_time", "value": 40 },
+  "name": "power.friend_races.knight_counter.name",
+  "description": "power.friend_races.knight_counter.description"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "neoorigins:modify_damage",
+  "direction": "out",
+  "multiplier": 1.15,
+  "damage_type": "player_attack",
+  "condition": { "type": "neoorigins:near_entity", "entity_type": "minecraft:player", "distance": 10 },
+  "name": "power.friend_races.shy_guy_crowd.name",
+  "description": "power.friend_races.shy_guy_crowd.description"
+}

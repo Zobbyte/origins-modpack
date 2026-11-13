@@ -1,0 +1,6 @@
+{
+  "type": "neoorigins:break_speed_modifier",
+  "multiplier": 1.1,
+  "name": "power.friend_races.human_practical.name",
+  "description": "power.friend_races.human_practical.description"
+}

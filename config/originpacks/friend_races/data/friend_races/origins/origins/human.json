@@ -1,0 +1,23 @@
+{
+  "name": "origins.friend_races.human.name",
+  "description": "origins.friend_races.human.description",
+  "icon": "minecraft:compass",
+  "impact": "low",
+  "order": 4,
+  "powers": [
+    "friend_races:human_practical",
+    "friend_races:human_ration",
+    "friend_races:human_repair",
+    "friend_races:human_focus_time",
+    "friend_races:human_focus_time_tick",
+    "friend_races:human_focus_mode",
+    "friend_races:human_focus",
+    "friend_races:human_work_speed",
+    "friend_races:human_travel_speed",
+    "friend_races:human_concentration",
+    "friend_races:human_fatigue",
+    "friend_races:human_fatigue_attack",
+    "friend_races:human_study",
+    "friend_races:human_attunement"
+  ]
+}

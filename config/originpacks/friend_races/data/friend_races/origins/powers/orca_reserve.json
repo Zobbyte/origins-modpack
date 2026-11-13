@@ -1,0 +1,12 @@
+{
+  "type": "neoorigins:resource",
+  "min": 0,
+  "max": 600,
+  "start_value": 600,
+  "hud_render": {
+    "label": "Sea Reserve",
+    "color": "#42B6D9"
+  },
+  "name": "power.friend_races.orca_reserve.name",
+  "description": "power.friend_races.orca_reserve.description"
+}

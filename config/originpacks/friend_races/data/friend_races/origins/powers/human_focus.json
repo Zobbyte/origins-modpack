@@ -1,0 +1,35 @@
+{
+  "type": "neoorigins:active_ability",
+  "entity_action": {
+    "type": "neoorigins:and",
+    "actions": [
+      {
+        "type": "neoorigins:if_else",
+        "condition": {
+          "type": "neoorigins:sneaking"
+        },
+        "if_action": {
+          "type": "neoorigins:set_resource",
+          "resource": "friend_races:human_focus_mode",
+          "value": 1
+        },
+        "else_action": {
+          "type": "neoorigins:set_resource",
+          "resource": "friend_races:human_focus_mode",
+          "value": 0
+        }
+      },
+      {
+        "type": "neoorigins:set_resource",
+        "resource": "friend_races:human_focus_time",
+        "value": 600
+      }
+    ]
+  },
+  "cooldown_ticks": 1200,
+  "hunger_cost": 2,
+  "cooldown_icon": "minecraft:compass",
+  "always_show_icon": true,
+  "name": "power.friend_races.human_focus.name",
+  "description": "power.friend_races.human_focus.description"
+}

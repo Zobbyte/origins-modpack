@@ -1,0 +1,104 @@
+{
+	id: "37F7FED1CCFF81E3"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{
+			count: 16
+			id: "54610F50F8BAF099"
+			item: {
+				count: 1
+				id: "cobblemon:poke_ball"
+			}
+			weight: 60.0f
+		}
+		{
+			count: 8
+			id: "370E2DBE06608BDA"
+			item: {
+				count: 1
+				id: "cobblemon:great_ball"
+			}
+			weight: 60.0f
+		}
+		{
+			count: 8
+			id: "06C6E80562C83C4D"
+			item: {
+				count: 1
+				id: "cobblemon:potion"
+			}
+			weight: 60.0f
+		}
+		{
+			count: 4
+			id: "49523B4452C1DE26"
+			item: {
+				count: 1
+				id: "cobblemon:super_potion"
+			}
+			weight: 60.0f
+		}
+		{
+			count: 4
+			id: "7AE054C9CDFA1A82"
+			item: {
+				count: 1
+				id: "cobblemon:ultra_ball"
+			}
+			weight: 40.0f
+		}
+		{
+			count: 6
+			id: "0ADCD732487C9DFB"
+			item: {
+				count: 1
+				id: "cobblemon:heavy_ball"
+			}
+			weight: 40.0f
+		}
+		{
+			count: 6
+			id: "2FD24A61ADEF8675"
+			item: {
+				count: 1
+				id: "cobblemon:net_ball"
+			}
+			weight: 40.0f
+		}
+		{
+			count: 5
+			id: "3E47FA58CFAB42E2"
+			item: {
+				count: 1
+				id: "cobblemon:rare_candy"
+			}
+			weight: 10.0f
+		}
+		{
+			count: 4
+			id: "3D9ADE4D95F16441"
+			item: {
+				count: 1
+				id: "cobblemon:exp_candy_l"
+			}
+			weight: 10.0f
+		}
+		{
+			id: "1D35AE651BC0FB5C"
+			item: {
+				count: 1
+				id: "cobblemon:ability_capsule"
+			}
+			weight: 10.0f
+		}
+		{
+			id: "44B108F2844DA49D"
+			item: {
+				count: 1
+				id: "cobblemon:master_ball"
+			}
+			weight: 2.0f
+		}
+	]
+}

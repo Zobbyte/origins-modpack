@@ -1,0 +1,25 @@
+{
+  "type": "neoorigins:active_ability",
+  "condition": { "type": "neoorigins:submerged_in_water" },
+  "entity_action": {
+    "type": "neoorigins:area_of_effect",
+    "radius": 12,
+    "shape": "sphere",
+    "include_source": false,
+    "entity_condition": { "type": "neoorigins:entity_type", "entity_type": "minecraft:player" },
+    "entity_action": {
+      "type": "neoorigins:and",
+      "actions": [
+        { "type": "neoorigins:apply_effect", "effect": "minecraft:dolphins_grace", "duration": 200, "amplifier": 0, "show_particles": false },
+        { "type": "neoorigins:apply_effect", "effect": "minecraft:water_breathing", "duration": 600, "amplifier": 0, "show_particles": false }
+      ]
+    }
+  },
+  "cooldown_ticks": 1800,
+  "resource_cost": "friend_races:orca_reserve",
+  "resource_cost_amount": 60,
+  "cooldown_icon": "minecraft:heart_of_the_sea",
+  "always_show_icon": true,
+  "name": "power.friend_races.orca_pod_call.name",
+  "description": "power.friend_races.orca_pod_call.description"
+}

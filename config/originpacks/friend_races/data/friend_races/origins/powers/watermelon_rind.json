@@ -1,0 +1,8 @@
+{
+  "type": "neoorigins:attribute_modifier",
+  "attribute": "minecraft:generic.armor",
+  "amount": 3,
+  "operation": "add_value",
+  "name": "power.friend_races.watermelon_rind.name",
+  "description": "power.friend_races.watermelon_rind.description"
+}

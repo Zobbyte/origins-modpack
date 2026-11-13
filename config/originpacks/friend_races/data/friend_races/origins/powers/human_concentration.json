@@ -1,0 +1,25 @@
+{
+  "type": "neoorigins:attribute_modifier",
+  "attribute": "minecraft:generic.movement_speed",
+  "amount": -0.1,
+  "operation": "add_multiplied_total",
+  "condition": {
+    "type": "neoorigins:and",
+    "conditions": [
+      {
+        "type": "neoorigins:resource",
+        "resource": "friend_races:human_focus_time",
+        "comparison": ">",
+        "compare_to": 200
+      },
+      {
+        "type": "neoorigins:resource",
+        "resource": "friend_races:human_focus_mode",
+        "comparison": "==",
+        "compare_to": 1
+      }
+    ]
+  },
+  "name": "power.friend_races.human_concentration.name",
+  "description": "power.friend_races.human_concentration.description"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "neoorigins:attribute_modifier",
+  "attribute": "minecraft:generic.attack_damage",
+  "amount": 1,
+  "operation": "add_value",
+  "condition": {
+    "type": "neoorigins:submerged_in_water"
+  },
+  "name": "power.friend_races.orca_hunter.name",
+  "description": "power.friend_races.orca_hunter.description"
+}

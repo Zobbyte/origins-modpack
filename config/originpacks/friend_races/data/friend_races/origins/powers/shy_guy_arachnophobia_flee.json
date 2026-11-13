@@ -1,0 +1,23 @@
+{
+  "type": "neoorigins:attribute_modifier",
+  "attribute": "minecraft:generic.movement_speed",
+  "amount": 0.35,
+  "operation": "add_multiplied_total",
+  "condition": {
+    "type": "neoorigins:or",
+    "conditions": [
+      {
+        "type": "neoorigins:near_entity",
+        "entity_type": "minecraft:spider",
+        "distance": 8
+      },
+      {
+        "type": "neoorigins:near_entity",
+        "entity_type": "minecraft:cave_spider",
+        "distance": 8
+      }
+    ]
+  },
+  "name": "power.friend_races.shy_guy_arachnophobia_flee.name",
+  "description": "power.friend_races.shy_guy_arachnophobia_flee.description"
+}

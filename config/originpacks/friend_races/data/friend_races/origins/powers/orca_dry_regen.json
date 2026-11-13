@@ -1,0 +1,12 @@
+{
+  "type": "neoorigins:action_on_event",
+  "event": "mod_natural_regen",
+  "condition": {
+    "type": "neoorigins:resource",
+    "resource": "friend_races:orca_reserve",
+    "comparison": "<=",
+    "compare_to": 150
+  },
+  "modifier": { "operation": "multiplication", "value": 0.5 },
+  "hidden": true
+}

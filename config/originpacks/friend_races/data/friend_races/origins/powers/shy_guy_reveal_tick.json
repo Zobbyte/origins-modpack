@@ -1,0 +1,8 @@
+{
+  "type": "neoorigins:condition_passive",
+  "interval": 1,
+  "toggleable": false,
+  "condition": { "type": "neoorigins:resource", "resource": "friend_races:shy_guy_reveal_time", "comparison": ">", "compare_to": 0 },
+  "entity_action": { "type": "neoorigins:change_resource", "resource": "friend_races:shy_guy_reveal_time", "change": -1 },
+  "hidden": true
+}

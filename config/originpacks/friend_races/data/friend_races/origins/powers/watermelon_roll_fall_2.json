@@ -1,0 +1,13 @@
+{
+  "type": "neoorigins:modify_damage",
+  "direction": "in",
+  "multiplier": 1.20,
+  "damage_type": "fall",
+  "condition": {
+    "type": "neoorigins:resource",
+    "resource": "friend_races:watermelon_roll",
+    "comparison": ">=",
+    "compare_to": 75
+  },
+  "hidden": true
+}

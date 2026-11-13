@@ -1,0 +1,13 @@
+name = "OriginsMods"
+author = "Jin"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c40ae0a0455bd00431b162ab5de6d31e21ab8e054e4b250ee2f5be8923755de9"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.265"

@@ -1,0 +1,8 @@
+{
+  "type": "neoorigins:modify_damage",
+  "direction": "out",
+  "multiplier": 1.3,
+  "damage_type": "player_attack",
+  "condition": { "type": "neoorigins:resource", "resource": "friend_races:knight_counter_time", "comparison": ">", "compare_to": 0 },
+  "hidden": true
+}

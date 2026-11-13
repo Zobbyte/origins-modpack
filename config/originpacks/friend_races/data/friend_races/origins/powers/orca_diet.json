@@ -1,0 +1,7 @@
+{
+  "type": "neoorigins:food_restriction",
+  "name": "power.friend_races.orca_diet.name",
+  "description": "power.friend_races.orca_diet.description",
+  "mode": "whitelist",
+  "item_tag": "#friend_races:fish_foods"
+}

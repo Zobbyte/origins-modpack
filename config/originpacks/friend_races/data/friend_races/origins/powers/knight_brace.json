@@ -1,0 +1,33 @@
+{
+  "type": "neoorigins:active_ability",
+  "entity_action": {
+    "type": "neoorigins:set_resource",
+    "resource": "friend_races:knight_brace_time",
+    "value": 80
+  },
+  "cooldown_ticks": 200,
+  "hunger_cost": 2,
+  "cooldown_icon": "minecraft:shield",
+  "always_show_icon": true,
+  "condition": {
+    "type": "neoorigins:and",
+    "conditions": [
+      {
+        "type": "neoorigins:armor_value",
+        "comparison": ">=",
+        "compare_to": 8
+      },
+      {
+        "type": "neoorigins:on_ground"
+      },
+      {
+        "type": "neoorigins:not",
+        "condition": {
+          "type": "neoorigins:passenger"
+        }
+      }
+    ]
+  },
+  "name": "power.friend_races.knight_brace.name",
+  "description": "power.friend_races.knight_brace.description"
+}

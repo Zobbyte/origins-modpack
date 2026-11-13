@@ -1,0 +1,10 @@
+{
+  "type": "neoorigins:action_on_event",
+  "event": "mod_exhaustion",
+  "modifier": {
+    "operation": "multiplication",
+    "value": 0.9
+  },
+  "name": "power.friend_races.human_ration.name",
+  "description": "power.friend_races.human_ration.description"
+}

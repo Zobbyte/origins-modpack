@@ -1,0 +1,6 @@
+{
+  "type": "neoorigins:scare_entities",
+  "entity_types": ["naturalist:great_white_shark"],
+  "name": "power.friend_races.orca_shark_bane.name",
+  "description": "power.friend_races.orca_shark_bane.description"
+}

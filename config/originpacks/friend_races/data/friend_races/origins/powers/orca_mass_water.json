@@ -1,0 +1,10 @@
+{
+  "type": "neoorigins:attribute_modifier",
+  "attribute": "minecraft:generic.knockback_resistance",
+  "amount": 0.15,
+  "operation": "add_value",
+  "condition": {
+    "type": "neoorigins:submerged_in_water"
+  },
+  "hidden": true
+}

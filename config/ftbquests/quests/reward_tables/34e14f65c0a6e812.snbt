@@ -1,0 +1,42 @@
+{
+	id: "34E14F65C0A6E812"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			count: 16
+			id: "284149AE4FC2B64B"
+			item: {
+				count: 1
+				id: "cobblemon:great_ball"
+			}
+			weight: 0.75f
+		}
+		{
+			count: 3
+			id: "589B5A82FC86D495"
+			item: {
+				count: 1
+				id: "cobblemon:exp_candy_m"
+			}
+		}
+		{
+			count: 8
+			id: "25D9A1B34DBAD8DC"
+			item: {
+				count: 1
+				id: "create:brass_ingot"
+			}
+			weight: 0.5f
+		}
+		{
+			count: 4
+			id: "235DE18834D0FCDE"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			weight: 0.5f
+		}
+	]
+}

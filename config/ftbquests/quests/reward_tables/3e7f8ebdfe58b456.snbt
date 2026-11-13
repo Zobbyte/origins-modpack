@@ -1,0 +1,10 @@
+{
+	id: "3E7F8EBDFE58B456"
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{ id: "760B4F04D9BC3046", item: { components: { "minecraft:item_name": "{\"translate\":\"item.wizards.spell_book/arcane\"}", "spell_engine:item_model": "wizards:item/spell_book/arcane", "spell_engine:spell_container": { pool: "wizards:spell_book/arcane" } }, count: 1, id: "spell_engine:spell_book" } }
+		{ id: "00ACE6F133E3248A", item: { components: { "minecraft:item_name": "{\"translate\":\"item.wizards.spell_book/fire\"}", "spell_engine:item_model": "wizards:item/spell_book/fire", "spell_engine:spell_container": { pool: "wizards:spell_book/fire" } }, count: 1, id: "spell_engine:spell_book" } }
+		{ id: "52BA888411175907", item: { components: { "minecraft:item_name": "{\"translate\":\"item.wizards.spell_book/frost\"}", "spell_engine:item_model": "wizards:item/spell_book/frost", "spell_engine:spell_container": { pool: "wizards:spell_book/frost" } }, count: 1, id: "spell_engine:spell_book" } }
+	]
+}

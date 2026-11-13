@@ -1,0 +1,7 @@
+{
+  "type": "neoorigins:ultimine",
+  "hidden": true,
+  "required_mods": [
+    "ftbultimine"
+  ]
+}

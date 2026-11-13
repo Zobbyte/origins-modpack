@@ -1,0 +1,139 @@
+{
+	chapter.0571813F219007E3.title: "Preparing for Battle"
+	chapter.3F27BD58B36466F5.title: "Cataclysm"
+	chapter.4531B26BC8E1C76A.title: "Welcome"
+	chapter.6FC475462B24CD71.title: "Homestead"
+	chapter.707BDBF368BA086A.title: "Trainer's Path"
+	chapter.79A7AB816B3C498A.title: "Kinetics"
+	chapter_group.0EFFDE8ECECEADA2.title: "RPG Series"
+	chapter_group.122F467614FC148E.title: "Farmer's Delight"
+	chapter_group.13F5C2B90FFFE9E1.title: "Cobblemon"
+	chapter_group.2920990FAAA3E7B0.title: "Cataclysm"
+	chapter_group.3701A5D24E82FCE8.title: "Create"
+	quest.029AAC55C2CB69EB.quest_desc: [
+		"Use a Necklace of the Desert at a Cursed Pyramid."
+		"{image:cataclysm:item/necklace_of_the_desert width:50 height:50 align:center}"
+	]
+	quest.029AAC55C2CB69EB.title: "Desert Tomb"
+	quest.02ACF091CD4BA569.quest_desc: ["Capture 15 different species of Pokémon!"]
+	quest.02ACF091CD4BA569.title: "Budding Collector"
+	quest.09380AD2BB917A70.quest_desc: [
+		"Use an Abyssal Sacrifice at the Altar of the Abyss in the Sunken City"
+		"{image:cataclysm:item/abyssal_sacrifice width:25 height:25 align:center}"
+	]
+	quest.09380AD2BB917A70.title: "From the Deep"
+	quest.0D64DF8291013833.quest_desc: ["Register 40 Pokémon species."]
+	quest.0E55BD02D750A81C.title: "Pokemon Storage"
+	quest.136529E0C6710FA3.title: "Turn Up the Heat"
+	quest.1691386027B76EFA.title: "Chop Chop"
+	quest.18FC8D153A89EA7E.title: "Straw Man"
+	quest.1C0518CD4249714A.quest_desc: ["Get 4 pieces of andesite alloy, which shouldn't be too bad."]
+	quest.20991E604E1F7590.quest_desc: ["Craft a Spell Binding Table."]
+	quest.20991E604E1F7590.title: "Spells for Classes"
+	quest.21A057E6BD552F47.quest_desc: [
+		"Use a Nether Star in the Ancient Factory"
+		"{image:minecraft:item/nether_star width:50 height:50 align:center click_action:none:}"
+	]
+	quest.21A057E6BD552F47.title: "Nether Heart"
+	quest.2525CC95C14D3C8B.title: "Yummy Plant Food"
+	quest.2772CD02F302DD65.quest_desc: ["Rogues strike from the shadows and vanish before the enemy can react. Fast daggers, stuns, and evasion are your tools."]
+	quest.2772CD02F302DD65.quest_subtitle: "The Rogue Class"
+	quest.277BEAE00963EAD5.quest_desc: ["Win a Pokémon battle"]
+	quest.28F10D0018BAB16C.title: "Ultra Prepared"
+	quest.29B4CADBFCBF6798.quest_desc: ["Locate a Ruined Citadel on the Outer End islands."]
+	quest.29B4CADBFCBF6798.title: "Void Warden"
+	quest.29F071B14CCCA019.title: "Conveying Things"
+	quest.2CB73284897F4FFE.title: "Paddy Field"
+	quest.2EE57EEA113B1A4A.title: "Kidnapped Blaze"
+	quest.2F6D1A34BBEE03E6.quest_desc: ["Create an automated cobblestone generator with a Mechanical Drill."]
+	quest.2F6D1A34BBEE03E6.title: "Rock and Stone"
+	quest.2F89180EFEC64EAC.title: "Precise Assembly"
+	quest.33992EC0BAC423A5.quest_desc: ["Wizards bend raw magic to their will. There are three different magic types: Arcane for burst and mobility, Fire for area destruction, and Frost to slow and control. It is best to keep your distance and let your spells do the work."]
+	quest.33992EC0BAC423A5.quest_subtitle: "The Wizard Class"
+	quest.33992EC0BAC423A5.title: "Become a Wizard!"
+	quest.389B2DCE4835BA06.title: "Full Steam Ahead"
+	quest.3B27E9D7F5A36385.title: "Under Pressure"
+	quest.3E0F98C02F36231C.quest_desc: ["Create an automated tree farm using a Mechanical Saw "]
+	quest.3E0F98C02F36231C.title: "Timber!"
+	quest.3FAAD62E9A36E7AD.quest_desc: ["Evolve any Pokémon!"]
+	quest.3FAAD62E9A36E7AD.title: "What? It's Evolving!"
+	quest.4493F04545EF21B6.title: "Get Things Turning"
+	quest.46185FAA2BC1DF3A.quest_desc: [""]
+	quest.46185FAA2BC1DF3A.title: "Ranch Life"
+	quest.46A5DF77B6D187EA.title: "The Brass Age"
+	quest.47D554144C5A7BCD.quest_desc: ["Find an Anchor pedestal at the peak of the Acropolis."]
+	quest.47D554144C5A7BCD.title: "Storm Queen"
+	quest.4BCC438ACBE87D94.title: "Sharp Start"
+	quest.5235C1151906B23B.quest_desc: ["Interact with the tomb in the Frosted Prison."]
+	quest.5235C1151906B23B.title: "Frozen Prisoner"
+	quest.527F635B855F7CDA.title: "Grinding My Gears"
+	quest.5391BE4B0B50DC34.quest_desc: ["Warriors crash into battle with heavy axes and glaives, cleaving through groups of enemies. Charge in, spin through the crowd, and strike fear into them with your battle shout."]
+	quest.5391BE4B0B50DC34.quest_subtitle: "The Warrior Class"
+	quest.5420A2315557FAB6.quest_desc: ["Build a shared base with beds for everyone!"]
+	quest.55BC00EDA13E461B.quest_desc: ["Level Up any Pokémon to level 30!"]
+	quest.56E3F77B714BCE3C.quest_desc: [""]
+	quest.56E3F77B714BCE3C.title: "Upgraded Balls"
+	quest.5865FDC9480ACFA3.title: "Nurse Station"
+	quest.5ABD93FC9F84C041.quest_desc: ["Craft 16 regular Poké Balls"]
+	quest.5ABD93FC9F84C041.title: "Gotta Craft 'Em All"
+	quest.5C06408F52A7C2F2.quest_desc: ["Revive a fossil Pokémon!"]
+	quest.5C06408F52A7C2F2.title: "Life Finds a Way"
+	quest.5D342A8ACC5A4419.quest_desc: ["Cook up all the feasts."]
+	quest.5D342A8ACC5A4419.title: "A Proper Feast"
+	quest.64879770E913FBAD.quest_desc: ["Priests channel holy light to mend wounds and shield allies from harm. You shine brightest in the group."]
+	quest.64879770E913FBAD.quest_subtitle: "The Priest Class"
+	quest.66DB54877AE69834.title: "A Big Fan"
+	quest.67B87554E49E2206.title: "Comfort Food"
+	quest.67C7D86C661D2C73.quest_desc: ["Hold [W] while hovering over a Create item to ponder it and learn how it works. After watching the tutorial, claim your reward!"]
+	quest.67C7D86C661D2C73.title: "Pondering"
+	quest.688546AA016E28C0.quest_desc: ["Capture 5 Pokémon."]
+	quest.688546AA016E28C0.title: "First Catches"
+	quest.693BD57E1261BAF9.title: "Helping Hand"
+	quest.6F2502190036DBA5.quest_desc: ["Use Burning Ashes at the Burning Arena"]
+	quest.6F2502190036DBA5.title: "Trial by Fire"
+	quest.711B099F6E07870B.title: "Nourished"
+	quest.72F94F163E82737F.quest_desc: ["This is the beginning of the quests. You will be able to complete tasks and obtain a variety of rewards!"]
+	quest.72F94F163E82737F.title: "Welcome, Crew"
+	quest.73ACFB28A0416806.title: "A Cutting Edge"
+	quest.75ED64A11E7A6DEC.title: "Essential Crops"
+	quest.7A55CE441A04C62E.quest_desc: ["Find a Soul Blacksmith in the Nether. "]
+	quest.7A55CE441A04C62E.title: "Forge Fiend"
+	quest.7C63F9CBD39A7365.quest_desc: ["Paladins stand on the front line, shield raised to protect allies with holy magic. Your heals and wards keep the group alive while you hold the enemy's attention."]
+	quest.7C63F9CBD39A7365.quest_subtitle: "The Paladin Class"
+	quest.7DFF0200379558F8.quest_desc: ["Archers control the battlefield from afar. Pin enemies with roots, punish them with powerful shots, and rain arrows down on groups."]
+	quest.7DFF0200379558F8.quest_subtitle: "The Archer Class"
+	quest.7FDE3581CDEC2DEA.title: "Cooking Potential"
+	reward_table.010322AAF0B10282.title: "Random Stone"
+	reward_table.11C9FF70025CEE89.title: "Large Crate"
+	reward_table.2B3127D1A80ACFC1.title: "Harvest and Hearth Crate"
+	reward_table.2C0B228EC13DB8F4.title: "Slayer's Spoils"
+	reward_table.34E14F65C0A6E812.title: "Medium Crate"
+	reward_table.37F7FED1CCFF81E3.title: "Trainer's Mystery Crate"
+	reward_table.3E7F8EBDFE58B456.title: "Wizard Choice"
+	reward_table.72DA4D2660290221.title: "Small Crate"
+	reward_table.77B47E3A6810BA39.title: "Mechanist's Assembly Crate"
+	task.02110FD4E89E9529.title: "Ponder an item"
+	task.04D3CCF7513E81E2.title: "Choose a Starter!"
+	task.07A0055F711BE34F.title: "Kill: Ancient Remnant"
+	task.07DF0C0962403985.title: "Priest"
+	task.0AD82DE2C9D0BE0A.title: "You're a Wizard"
+	task.0C508A001E7B6F13.title: "Home Base"
+	task.0E81A6844B882D42.title: "You Read This"
+	task.103BA3F8F011FE03.title: "Timber"
+	task.1705DAAE37D541EF.title: "Kill: Maledictus"
+	task.1A696A90F1F9EAE0.title: "Warrior"
+	task.259A14EC4D279293.title: "Kill: Scylla"
+	task.279E03C5D6B2E3E3.title: "Kill: The Leviathan"
+	task.355C68FB903FA66C.title: "Rogue"
+	task.38780C0B434EA65E.title: "Pokédex Keeper"
+	task.3EB62DAB1A13B969.title: "Victory"
+	task.4001C210A5298C86.title: "Seasoned Trainer"
+	task.4DC815E3A2D39E4E.title: "Become an Archer!"
+	task.55641FB4A56A96A7.title: "Paladin"
+	task.5FA55170ABB5E9A1.title: "Kill: The Harbinger"
+	task.6A312E6C212FB235.title: "Catch 5 Pokémon"
+	task.6D09E0A976077E74.title: "Kill: Netherite Monstrosity"
+	task.71D9BFF462155F5F.title: "Kill: The Leviathan"
+	task.77D64971F54C7126.title: "Kill: Ignis"
+	task.7840DBFD469430D8.title: "Something's Happening"
+}

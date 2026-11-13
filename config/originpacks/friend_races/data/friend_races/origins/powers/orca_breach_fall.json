@@ -1,0 +1,13 @@
+{
+  "type": "neoorigins:modify_damage",
+  "direction": "in",
+  "multiplier": 0.5,
+  "damage_type": "fall",
+  "condition": {
+    "type": "neoorigins:resource",
+    "resource": "friend_races:orca_breach_time",
+    "comparison": ">",
+    "compare_to": 0
+  },
+  "hidden": true
+}

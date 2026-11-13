@@ -1,0 +1,13 @@
+# Friend Races baseline. Merge these sections into existing configs.
+config_version = 1
+[auto_human]
+enabled = false
+[skip_initial_selection]
+enabled = false
+[random_assignment]
+mode = "DISABLED"
+[evolution]
+enabled = false
+[orb_of_origins]
+scale_cost = false
+levels_per_use = 30

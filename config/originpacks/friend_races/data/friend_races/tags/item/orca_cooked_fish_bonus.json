@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "naturalist:cooked_bass", "required": false },
+    { "id": "naturalist:cooked_catfish", "required": false },
+    { "id": "naturalist:cooked_piranha", "required": false },
+    { "id": "naturalist:cooked_anglerfish", "required": false },
+    { "id": "naturalist:cooked_blobfish", "required": false }
+  ]
+}

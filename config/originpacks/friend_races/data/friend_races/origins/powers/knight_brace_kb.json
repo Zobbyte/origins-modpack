@@ -1,0 +1,32 @@
+{
+  "type": "neoorigins:attribute_modifier",
+  "attribute": "minecraft:generic.knockback_resistance",
+  "amount": 0.35,
+  "operation": "add_value",
+  "condition": {
+    "type": "neoorigins:and",
+    "conditions": [
+      {
+        "type": "neoorigins:resource",
+        "resource": "friend_races:knight_brace_time",
+        "comparison": ">",
+        "compare_to": 0
+      },
+      {
+        "type": "neoorigins:armor_value",
+        "comparison": ">=",
+        "compare_to": 8
+      },
+      {
+        "type": "neoorigins:on_ground"
+      },
+      {
+        "type": "neoorigins:not",
+        "condition": {
+          "type": "neoorigins:passenger"
+        }
+      }
+    ]
+  },
+  "hidden": true
+}

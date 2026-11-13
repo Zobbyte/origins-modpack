@@ -1,0 +1,315 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cataclysm"
+	group: "2920990FAAA3E7B0"
+	id: "3F27BD58B36466F5"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7A55CE441A04C62E"
+			rewards: [
+				{
+					id: "1021ACF9D96AC130"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "53062062C4E68BF4"
+					item: {
+						components: {
+							"minecraft:potion_contents": {
+								potion: "minecraft:long_fire_resistance"
+							}
+						}
+						count: 1
+						id: "minecraft:potion"
+					}
+					type: "item"
+				}
+				{
+					id: "1F01ECA67AAF5B62"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+			]
+			tasks: [{
+				advancement: "cataclysm:kill_monstrosity"
+				criterion: ""
+				id: "6D09E0A976077E74"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["09380AD2BB917A70"]
+			id: "47D554144C5A7BCD"
+			rewards: [
+				{
+					count: 3
+					id: "7F329BC85FB15D03"
+					item: {
+						count: 1
+						id: "cataclysm:essence_of_the_storm"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "2A60CA465078CB65"
+					item: {
+						count: 1
+						id: "cataclysm:lacrima"
+					}
+					type: "item"
+				}
+				{
+					id: "7BD90C909F15ECDD"
+					item: {
+						components: {
+							"minecraft:stored_enchantments": {
+								levels: {
+									"minecraft:impaling": 5
+								}
+							}
+						}
+						count: 1
+						id: "minecraft:enchanted_book"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "cataclysm:kill_scylla"
+				criterion: ""
+				id: "259A14EC4D279293"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7A55CE441A04C62E"]
+			id: "21A057E6BD552F47"
+			rewards: [
+				{
+					id: "60783C9F8CB5BA13"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+				{
+					count: 6
+					id: "0100FAC0EAD3A3DD"
+					item: {
+						count: 1
+						id: "minecraft:redstone_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "cataclysm:kill_harbinger"
+				criterion: ""
+				id: "5FA55170ABB5E9A1"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["21A057E6BD552F47"]
+			id: "29B4CADBFCBF6798"
+			rewards: [
+				{
+					id: "7354427474CC3D80"
+					item: {
+						count: 1
+						id: "minecraft:elytra"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "33675336E6F7FA53"
+					item: {
+						count: 1
+						id: "minecraft:ender_pearl"
+					}
+					type: "item"
+				}
+				{
+					id: "555F0D0A0FBCEF6F"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+			]
+			tasks: [{
+				advancement: "cataclysm:kill_ender_guardian"
+				criterion: ""
+				id: "279E03C5D6B2E3E3"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["29B4CADBFCBF6798"]
+			id: "029AAC55C2CB69EB"
+			rewards: [
+				{
+					count: 6
+					id: "697BD0866C6C011F"
+					item: {
+						count: 1
+						id: "cataclysm:ancient_metal_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "78E418F7D3536D86"
+					item: {
+						count: 1
+						id: "minecraft:brush"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "cataclysm:kill_remnant"
+				criterion: ""
+				id: "07A0055F711BE34F"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["029AAC55C2CB69EB"]
+			id: "09380AD2BB917A70"
+			rewards: [
+				{
+					id: "43A89472A24BC75C"
+					item: {
+						count: 1
+						id: "minecraft:conduit"
+					}
+					type: "item"
+				}
+				{
+					id: "62ABC800B74401A3"
+					item: {
+						count: 1
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "5A461617E9B910EC"
+					type: "xp_levels"
+					xp_levels: 40
+				}
+			]
+			tasks: [{
+				advancement: "cataclysm:kill_leviathan"
+				criterion: ""
+				id: "71D9BFF462155F5F"
+				type: "advancement"
+			}]
+			x: 6.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["47D554144C5A7BCD"]
+			id: "5235C1151906B23B"
+			rewards: [
+				{
+					count: 3
+					id: "227117F560F46145"
+					item: {
+						count: 1
+						id: "cataclysm:cursium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "70CEDB7FF7CF27D6"
+					item: {
+						count: 1
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "15953CA6B1F16096"
+					type: "xp_levels"
+					xp_levels: 40
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7F64ED2FF60C443C"
+					table_id: 3173668358935394548L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				advancement: "cataclysm:kill_maledictus"
+				criterion: ""
+				id: "1705DAAE37D541EF"
+				type: "advancement"
+			}]
+			x: 9.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5235C1151906B23B"]
+			id: "6F2502190036DBA5"
+			rewards: [
+				{
+					count: 3
+					id: "3C1861A7AE0FA6F9"
+					item: {
+						count: 1
+						id: "cataclysm:ignitium_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "2878DAB40E6341BB"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+				{
+					id: "24DA2ECAD8F44409"
+					type: "xp_levels"
+					xp_levels: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0CFE646F22A8C2CB"
+					table_id: 3173668358935394548L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				advancement: "cataclysm:kill_ignis"
+				criterion: ""
+				id: "77D64971F54C7126"
+				type: "advancement"
+			}]
+			x: 11.0d
+			y: 1.5d
+		}
+	]
+}

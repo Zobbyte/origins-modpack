@@ -1,0 +1,13 @@
+{
+  "type": "neoorigins:attribute_modifier",
+  "attribute": "minecraft:generic.armor_toughness",
+  "amount": 2,
+  "operation": "add_value",
+  "condition": {
+    "type": "neoorigins:armor_value",
+    "comparison": ">=",
+    "compare_to": 8
+  },
+  "name": "power.friend_races.knight_training.name",
+  "description": "power.friend_races.knight_training.description"
+}

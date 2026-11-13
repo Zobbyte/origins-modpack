@@ -1,0 +1,302 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "become_the_very_best"
+	group: "13F5C2B90FFFE9E1"
+	id: "707BDBF368BA086A"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["01B0804A5B552412"]
+			id: "5ABD93FC9F84C041"
+			rewards: [
+				{
+					count: 2
+					id: "2A079CA6F4265AD5"
+					item: {
+						count: 1
+						id: "cobblemon:red_apricorn_seed"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "7956207819BFE81F"
+					item: {
+						count: 1
+						id: "cobblemon:blue_apricorn_seed"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "5473283DBE4A8AFD"
+					item: {
+						count: 1
+						id: "cobblemon:green_apricorn_seed"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "3856573455541410"
+					item: {
+						count: 1
+						id: "cobblemon:white_apricorn_seed"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "2E882077859727E9"
+				item: { count: 1, id: "cobblemon:poke_ball" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5ABD93FC9F84C041"]
+			icon: {
+				id: "minecraft:lead"
+			}
+			id: "688546AA016E28C0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "09C51C8309FE6796"
+				table_id: 8276012092464103969L
+				type: "all_table"
+			}]
+			tasks: [{
+				icon: {
+					id: "cobblemon:poke_ball"
+				}
+				id: "6A312E6C212FB235"
+				stat: "cobblemon:captured"
+				type: "stat"
+				value: 5
+			}]
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["688546AA016E28C0"]
+			id: "5865FDC9480ACFA3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "43A2A4B3251C9042"
+				table_id: 8276012092464103969L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "4C2EAF3F02CF0977"
+				item: { count: 1, id: "cobblemon:healing_machine" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["688546AA016E28C0"]
+			id: "0E55BD02D750A81C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "58136F4A439D54E7"
+				table_id: 8276012092464103969L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "444478C9ADE2710C"
+				item: { count: 1, id: "cobblemon:pc" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["688546AA016E28C0"]
+			id: "02ACF091CD4BA569"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "59CE045D5B3A988E"
+				table_id: 8276012092464103969L
+				type: "loot"
+			}]
+			tasks: [{
+				icon: {
+					id: "cobblemon:poke_ball"
+				}
+				id: "41CE727F482494A4"
+				stat: "cobblemon:dex_entries"
+				type: "stat"
+				value: 15
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["688546AA016E28C0"]
+			id: "3FAAD62E9A36E7AD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "55C22279EAFC8E3F"
+				table_id: 72940136545976962L
+				type: "random"
+			}]
+			tasks: [{
+				icon: {
+					id: "cobblemon:fire_stone"
+				}
+				id: "7840DBFD469430D8"
+				stat: "cobblemon:evolved"
+				type: "stat"
+				value: 1
+			}]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["02ACF091CD4BA569"]
+			id: "56E3F77B714BCE3C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "160368F113360D8D"
+				table_id: 72940136545976962L
+				type: "random"
+			}]
+			tasks: [{
+				count: 15L
+				id: "5AAE0AB31EC9022D"
+				item: { count: 1, id: "cobblemon:great_ball" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3FAAD62E9A36E7AD"]
+			id: "55BC00EDA13E461B"
+			rewards: [{
+				count: 3
+				id: "1DEAB4B31E05F016"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_m"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				icon: {
+					id: "rctmod:trainer_card"
+				}
+				id: "4001C210A5298C86"
+				stat: "cobblemon:level_up"
+				type: "stat"
+				value: 30
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0E55BD02D750A81C"]
+			id: "46185FAA2BC1DF3A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "662D59DFB48570D2"
+				table_id: 8276012092464103969L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "26319106F9CD35D8"
+				item: { count: 1, id: "cobblemon:pasture" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["55BC00EDA13E461B"]
+			id: "277BEAE00963EAD5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "38AC752E660D13BC"
+				table_id: 4032972168374485475L
+				type: "loot"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:firework_rocket"
+				}
+				id: "3EB62DAB1A13B969"
+				stat: "cobblemon:battles_won"
+				type: "stat"
+				value: 1
+			}]
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["28F10D0018BAB16C"]
+			id: "0D64DF8291013833"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "290A14FDA0D00825"
+				table_id: 4032972168374485475L
+				type: "loot"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:writable_book"
+				}
+				id: "38780C0B434EA65E"
+				stat: "cobblemon:dex_entries"
+				type: "stat"
+				value: 40
+			}]
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["56E3F77B714BCE3C"]
+			id: "28F10D0018BAB16C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2D58F64ADE1568F5"
+				table_id: 4032972168374485475L
+				type: "loot"
+			}]
+			tasks: [{
+				count: 16L
+				id: "0AB09A41794678BF"
+				item: { count: 1, id: "cobblemon:ultra_ball" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0E55BD02D750A81C"]
+			id: "5C06408F52A7C2F2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4DB197F415128329"
+				table_id: 4032972168374485475L
+				type: "loot"
+			}]
+			tasks: [{
+				icon: {
+					id: "cobblemon:helix_fossil"
+				}
+				id: "7B0E636797422A6A"
+				stat: "cobblemon:fossils_revived"
+				type: "stat"
+				value: 1
+			}]
+			x: 1.5d
+			y: -5.0d
+		}
+	]
+}

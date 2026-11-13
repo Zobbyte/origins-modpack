@@ -1,0 +1,8 @@
+{
+  "type": "neoorigins:attribute_modifier",
+  "attribute": "irons_spellbooks:mana_regen",
+  "amount": 0.10,
+  "operation": "add_value",
+  "name": "power.friend_races.human_attunement.name",
+  "description": "power.friend_races.human_attunement.description"
+}

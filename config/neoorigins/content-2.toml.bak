@@ -1,0 +1,4 @@
+# Friend Races requires active resources and underwater night vision.
+# NeoForge fills other defaults. Merge these keys if you already have this file.
+disable_resource_bars = false
+disable_night_vision = false

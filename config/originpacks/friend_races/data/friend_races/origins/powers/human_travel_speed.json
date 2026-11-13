@@ -1,0 +1,24 @@
+{
+  "type": "neoorigins:attribute_modifier",
+  "attribute": "minecraft:generic.movement_speed",
+  "amount": 0.15,
+  "operation": "add_multiplied_total",
+  "condition": {
+    "type": "neoorigins:and",
+    "conditions": [
+      {
+        "type": "neoorigins:resource",
+        "resource": "friend_races:human_focus_time",
+        "comparison": ">",
+        "compare_to": 200
+      },
+      {
+        "type": "neoorigins:resource",
+        "resource": "friend_races:human_focus_mode",
+        "comparison": "==",
+        "compare_to": 0
+      }
+    ]
+  },
+  "hidden": true
+}

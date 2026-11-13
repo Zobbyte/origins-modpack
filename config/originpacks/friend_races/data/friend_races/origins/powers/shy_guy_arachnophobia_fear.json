@@ -1,0 +1,15 @@
+{
+  "type": "neoorigins:modify_damage",
+  "direction": "in",
+  "multiplier": 1.5,
+  "damage_type": "mob_attack",
+  "condition": {
+    "type": "neoorigins:or",
+    "conditions": [
+      { "type": "neoorigins:near_entity", "entity_type": "minecraft:spider", "distance": 3 },
+      { "type": "neoorigins:near_entity", "entity_type": "minecraft:cave_spider", "distance": 3 }
+    ]
+  },
+  "name": "power.friend_races.shy_guy_arachnophobia_fear.name",
+  "description": "power.friend_races.shy_guy_arachnophobia_fear.description"
+}

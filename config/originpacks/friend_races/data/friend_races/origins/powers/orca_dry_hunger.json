@@ -1,0 +1,12 @@
+{
+  "type": "neoorigins:action_on_event",
+  "event": "mod_exhaustion",
+  "condition": {
+    "type": "neoorigins:resource",
+    "resource": "friend_races:orca_reserve",
+    "comparison": "<=",
+    "compare_to": 300
+  },
+  "modifier": { "operation": "multiplication", "value": 1.2 },
+  "hidden": true
+}

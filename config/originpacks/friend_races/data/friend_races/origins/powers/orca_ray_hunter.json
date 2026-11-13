@@ -1,0 +1,9 @@
+{
+  "type": "neoorigins:action_on_event",
+  "event": "effect_applied",
+  "effect": "minecraft:poison",
+  "condition": { "type": "neoorigins:near_entity", "entity_type": "naturalist:ray", "distance": 6 },
+  "entity_action": { "type": "neoorigins:cancel_event" },
+  "name": "power.friend_races.orca_ray_hunter.name",
+  "description": "power.friend_races.orca_ray_hunter.description"
+}

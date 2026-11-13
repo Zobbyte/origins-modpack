@@ -1,0 +1,14 @@
+{
+  "type": "neoorigins:condition_passive",
+  "interval": 20,
+  "toggleable": false,
+  "condition": { "type": "neoorigins:and", "conditions": [
+    { "type": "neoorigins:or", "conditions": [
+      { "type": "neoorigins:submerged_in_water" },
+      { "type": "neoorigins:in_rain" }
+    ]},
+    { "type": "neoorigins:resource", "resource": "friend_races:orca_reserve", "comparison": ">=", "compare_to": 300 }
+  ]},
+  "entity_action": { "type": "neoorigins:change_resource", "resource": "friend_races:orca_reserve", "change": 15 },
+  "hidden": true
+}

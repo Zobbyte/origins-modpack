@@ -1,0 +1,42 @@
+{
+	id: "72DA4D2660290221"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			count: 16
+			id: "61B1975E4F3F857D"
+			item: {
+				count: 1
+				id: "minecraft:bread"
+			}
+		}
+		{
+			count: 8
+			id: "0CFFA2C94CC4FA6C"
+			item: {
+				count: 1
+				id: "cobblemon:poke_ball"
+			}
+		}
+		{
+			count: 16
+			id: "5C8A2D9C8D043E96"
+			item: {
+				count: 1
+				id: "create:andesite_alloy"
+			}
+			weight: 0.75f
+		}
+		{
+			count: 8
+			id: "6C29AED20A54B8D7"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+			weight: 0.5f
+		}
+		{ id: "495F7CC5C3E534F2", item: { count: 1, id: "cobblemon:exp_candy_s" } }
+	]
+}
