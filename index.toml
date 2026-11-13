@@ -2129,6 +2129,11 @@ file = "kubejs/startup_scripts/main.js"
 hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "2dc498bd8a43a8e02fc9d08fe5846ac17f6eabbecbf38ae39aa7b1f23fe100b0"
+metafile = true
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "e72892c2f468f3f766e8f22f16ea8184dea99b9e2bf66dcf8e255e7364513b11"
 metafile = true
@@ -2390,7 +2395,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-flight-control.pw.toml"
-hash = "6d62b9cc424dce3b04d5664586f652dc11fad22e1ec035be1399147fc119c44c"
+hash = "f6a3394ead34af6dce883bb890eed1d82d6a2d7449ceccacf48eb8aac6655b97"
 metafile = true
 
 [[files]]
@@ -2480,7 +2485,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "2c30e4316a5ae988b31f83db6f83d3b4b824758ca9e6a2dd8e1f131de418bfed"
+hash = "426238488c9ffd843f661f8bc74aa8e585fa6b4d342c43c4ba4cb8451298b725"
 metafile = true
 
 [[files]]
@@ -2789,13 +2794,13 @@ hash = "2e9a8daaa0e0cc9cdfb67422e0f928f2db6a1f2984b8636eb2b5091c5fb23e29"
 metafile = true
 
 [[files]]
-file = "mods/neoorigins.pw.toml"
-hash = "ab7967d6023bba8d5051f13e616c38d5cb5c2e2238c491518b55652c6f47eb07"
+file = "mods/neo-origins.pw.toml"
+hash = "b14fcbee206caceb14daa8eb8aff56f002cb9b4f52703dcc9f88fb1f359f0249"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "7940792abec3f90ed7864fd1cf7c5313a412586b7e5f9253bbd87c1b4d8a6da2"
+hash = "fd84fcf376910b659fdfbcc2401aa545400b0d7c65834eb2fe22bae3a3c921c2"
 metafile = true
 
 [[files]]
@@ -2976,11 +2981,6 @@ metafile = true
 [[files]]
 file = "mods/skill-tree.pw.toml"
 hash = "2d33b4bc25887634cf00bb67c99b6cfa5f3f6dcc56044af3f606aed7d34bbb46"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "76a0c2e43960a24ed7d6022db40f85872f86066e56b8ff99407a6f1aaa516ada"
 metafile = true
 
 [[files]]
