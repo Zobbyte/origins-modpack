@@ -2,6 +2,6 @@
   "type": "neoorigins:size_scaling",
   "scale": 0.8,
   "modify_reach": false,
-  "name": "power.friend_races.shy_guy_small.name",
-  "description": "power.friend_races.shy_guy_small.description"
+  "name": "Small Fry",
+  "description": "You are 80% normal size with normal reach."
 }

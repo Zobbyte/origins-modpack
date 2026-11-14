@@ -1,6 +1,6 @@
 {
-  "name": "origins.friend_races.human.name",
-  "description": "origins.friend_races.human.description",
+  "name": "Human",
+  "description": "A normal, adaptable expedition member. Practical skills and good provisions suit any path, including Iron\u0027s Spells \u0027n Spellbooks magic; deliberate exertion gives flexible short bursts.",
   "icon": "minecraft:compass",
   "impact": "low",
   "order": 4,

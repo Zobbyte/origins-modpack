@@ -3,44 +3,12 @@
   "entity_action": {
     "type": "neoorigins:and",
     "actions": [
-      {
-        "type": "neoorigins:play_sound",
-        "sound": "minecraft:block.sculk_sensor.clicking",
-        "volume": 1.5,
-        "pitch": 0.9
-      },
+      { "type": "neoorigins:play_sound", "sound": "minecraft:block.sculk_sensor.clicking", "volume": 1.5, "pitch": 0.9 },
       {
         "type": "neoorigins:if_else",
         "condition": { "type": "neoorigins:submerged_in", "fluid": "minecraft:water" },
-        "if_action": {
-          "type": "neoorigins:and",
-          "actions": [
-            {
-              "type": "neoorigins:area_of_effect",
-              "radius": 48,
-              "shape": "sphere",
-              "include_source": false,
-              "entity_condition": { "type": "neoorigins:entity_type", "entity_type": "#friend_races:echo_targets" },
-              "entity_action": { "type": "neoorigins:apply_effect", "effect": "minecraft:glowing", "duration": 160, "amplifier": 0, "show_particles": false }
-            },
-            {
-              "type": "neoorigins:area_of_effect",
-              "radius": 48,
-              "shape": "sphere",
-              "include_source": false,
-              "entity_condition": { "type": "neoorigins:entity_type", "entity_type": "#friend_races:echo_prey" },
-              "entity_action": { "type": "neoorigins:apply_effect", "effect": "minecraft:glowing", "duration": 100, "amplifier": 0, "show_particles": false }
-            }
-          ]
-        },
-        "else_action": {
-          "type": "neoorigins:area_of_effect",
-          "radius": 16,
-          "shape": "sphere",
-          "include_source": false,
-          "entity_condition": { "type": "neoorigins:entity_type", "entity_type": "#friend_races:echo_targets" },
-          "entity_action": { "type": "neoorigins:apply_effect", "effect": "minecraft:glowing", "duration": 160, "amplifier": 0, "show_particles": false }
-        }
+        "if_action": { "type": "neoorigins:set_resource", "resource": "friend_races:orca_echo_water_time", "value": 160 },
+        "else_action": { "type": "neoorigins:set_resource", "resource": "friend_races:orca_echo_land_time", "value": 160 }
       }
     ]
   },
@@ -50,6 +18,6 @@
   "resource_cost_amount": 40,
   "cooldown_icon": "minecraft:echo_shard",
   "always_show_icon": true,
-  "name": "power.friend_races.orca_echo.name",
-  "description": "power.friend_races.orca_echo.description"
+  "name": "Echolocation",
+  "description": "While submerged, outline hostile creatures and sea life within 48 blocks for 8 seconds, through walls. On land, only hostiles within 16 blocks. Only you can see the outlines. 30-second cooldown; costs 40 Sea Reserve."
 }

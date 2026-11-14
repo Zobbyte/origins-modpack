@@ -5,8 +5,11 @@
   "start_value": 600,
   "hud_render": {
     "label": "Sea Reserve",
-    "color": "#42B6D9"
+    "color": "#42B6D9",
+    "animated": "neoorigins:water",
+    "text_outline": true
   },
-  "name": "power.friend_races.orca_reserve.name",
-  "description": "power.friend_races.orca_reserve.description"
+  "name": "Sea Reserve",
+  "description": "600-point reserve that fuels Echolocation and Pod Call. Out of water: lose 1 per second (empty in about 10 minutes). Standing in any water or rain refills it at 20 per second (empty to full in 30 seconds). A placed water bucket works. At 300 or less, hunger drains x1.20 faster. At 150 or less, natural healing is halved. At 0 while dry, movement speed x0.90."
 }
+

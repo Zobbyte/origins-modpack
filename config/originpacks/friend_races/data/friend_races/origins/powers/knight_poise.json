@@ -3,6 +3,6 @@
   "attribute": "minecraft:generic.knockback_resistance",
   "amount": 0.15,
   "operation": "add_value",
-  "name": "power.friend_races.knight_poise.name",
-  "description": "power.friend_races.knight_poise.description"
+  "name": "Steady Footing",
+  "description": "+0.15 knockback resistance."
 }

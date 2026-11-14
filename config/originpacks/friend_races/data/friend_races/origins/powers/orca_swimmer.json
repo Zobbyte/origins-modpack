@@ -3,6 +3,6 @@
   "attribute": "neoforge:swim_speed",
   "amount": 0.8,
   "operation": "add_multiplied_total",
-  "name": "power.friend_races.orca_swimmer.name",
-  "description": "power.friend_races.orca_swimmer.description"
+  "name": "Ocean Stride",
+  "description": "Swim-speed is increased to x1.80."
 }

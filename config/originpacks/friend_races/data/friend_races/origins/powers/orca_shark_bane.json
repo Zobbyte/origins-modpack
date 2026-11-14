@@ -1,6 +1,6 @@
 {
   "type": "neoorigins:scare_entities",
   "entity_types": ["naturalist:great_white_shark"],
-  "name": "power.friend_races.orca_shark_bane.name",
-  "description": "power.friend_races.orca_shark_bane.description"
+  "name": "Shark\u0027s Bane",
+  "description": "Great white sharks flee from you and won\u0027t attack."
 }

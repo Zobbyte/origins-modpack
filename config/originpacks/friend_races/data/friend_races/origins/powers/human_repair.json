@@ -5,7 +5,7 @@
     "operation": "multiplication",
     "value": 0.85
   },
-  "name": "power.friend_races.human_repair.name",
-  "description": "power.friend_races.human_repair.description"
+  "name": "Maintenance Habit",
+  "description": "Vanilla anvil level cost x0.85."
 }
 

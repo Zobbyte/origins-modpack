@@ -4,11 +4,22 @@
   "toggleable": false,
   "condition": {
     "type": "neoorigins:not",
-    "condition": { "type": "neoorigins:or", "conditions": [
-      { "type": "neoorigins:in_water" },
-      { "type": "neoorigins:in_rain" }
-    ]}
+    "condition": {
+      "type": "neoorigins:or",
+      "conditions": [
+        {
+          "type": "neoorigins:in_water"
+        },
+        {
+          "type": "neoorigins:in_rain"
+        }
+      ]
+    }
   },
-  "entity_action": { "type": "neoorigins:change_resource", "resource": "friend_races:orca_reserve", "change": -2 },
+  "entity_action": {
+    "type": "neoorigins:change_resource",
+    "resource": "friend_races:orca_reserve",
+    "change": -1
+  },
   "hidden": true
 }

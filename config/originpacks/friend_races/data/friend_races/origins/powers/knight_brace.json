@@ -28,6 +28,6 @@
       }
     ]
   },
-  "name": "power.friend_races.knight_brace.name",
-  "description": "power.friend_races.knight_brace.description"
+  "name": "Hold the Line",
+  "description": "A 4-second stance: while grounded, unmounted and at 8+ armor, take x0.85 incoming damage, gain +0.35 knockback resistance and move at x0.65 speed. 10-second cooldown; costs 2 food points."
 }

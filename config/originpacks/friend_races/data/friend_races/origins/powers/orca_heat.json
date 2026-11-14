@@ -3,6 +3,6 @@
   "direction": "in",
   "multiplier": 1.2,
   "damage_type": "#minecraft:is_fire",
-  "name": "power.friend_races.orca_heat.name",
-  "description": "power.friend_races.orca_heat.description"
+  "name": "Heat Sensitivity",
+  "description": "Take x1.20 damage from all sources of fire."
 }

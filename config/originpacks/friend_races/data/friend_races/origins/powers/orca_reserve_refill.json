@@ -1,0 +1,22 @@
+{
+  "type": "neoorigins:condition_passive",
+  "interval": 20,
+  "toggleable": false,
+  "condition": {
+    "type": "neoorigins:or",
+    "conditions": [
+      {
+        "type": "neoorigins:in_water"
+      },
+      {
+        "type": "neoorigins:in_rain"
+      }
+    ]
+  },
+  "entity_action": {
+    "type": "neoorigins:change_resource",
+    "resource": "friend_races:orca_reserve",
+    "change": 20
+  },
+  "hidden": true
+}

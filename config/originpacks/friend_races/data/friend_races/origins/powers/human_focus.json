@@ -30,6 +30,6 @@
   "hunger_cost": 2,
   "cooldown_icon": "minecraft:compass",
   "always_show_icon": true,
-  "name": "power.friend_races.human_focus.name",
-  "description": "power.friend_races.human_focus.description"
+  "name": "Choose Your Effort",
+  "description": "Sneak-activate for a 20-second work burst (block-breaking speed x1.35, movement speed x0.90), or activate normally for a 20-second travel burst (movement speed x1.15, no mining bonus). Afterward, suffer 10 seconds of x0.90 movement and attack speed. 60-second cooldown; costs 2 food/saturation points."
 }

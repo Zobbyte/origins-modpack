@@ -3,6 +3,6 @@
   "event": "hit_taken",
   "condition": { "type": "neoorigins:resource", "resource": "friend_races:knight_brace_time", "comparison": ">", "compare_to": 0 },
   "entity_action": { "type": "neoorigins:set_resource", "resource": "friend_races:knight_counter_time", "value": 40 },
-  "name": "power.friend_races.knight_counter.name",
-  "description": "power.friend_races.knight_counter.description"
+  "name": "Guard Counter",
+  "description": "Taking a hit during Hold the Line opens a 2-second window where your next melee hit deals x1.30 damage."
 }

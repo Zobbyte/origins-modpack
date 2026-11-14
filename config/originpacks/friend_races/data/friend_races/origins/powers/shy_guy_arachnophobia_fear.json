@@ -10,6 +10,6 @@
       { "type": "neoorigins:near_entity", "entity_type": "minecraft:cave_spider", "distance": 3 }
     ]
   },
-  "name": "power.friend_races.shy_guy_arachnophobia_fear.name",
-  "description": "power.friend_races.shy_guy_arachnophobia_fear.description"
+  "name": "Eight Legs Too Many",
+  "description": "Take x1.50 melee damage while a spider is within 3 blocks."
 }

@@ -1,7 +1,7 @@
 {
   "type": "neoorigins:attribute_modifier",
   "attribute": "minecraft:generic.movement_speed",
-  "amount": 0.20,
+  "amount": 0.2,
   "operation": "add_multiplied_total",
   "condition": {
     "type": "neoorigins:and",
@@ -16,10 +16,10 @@
         "compare_to": 75
       },
       {
-        "type": "neoorigins:resource", 
-        "resource": "friend_races:watermelon_sun",
-        "comparison": ">", 
-        "compare_to": 0
+        "type": "neoorigins:resource",
+        "resource": "friend_races:watermelon_sun_dash",
+        "comparison": "==",
+        "compare_to": 1
       }
     ]
   },

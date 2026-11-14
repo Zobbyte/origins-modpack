@@ -18,6 +18,6 @@
       }
     ]
   },
-  "name": "power.friend_races.shy_guy_arachnophobia_flee.name",
-  "description": "power.friend_races.shy_guy_arachnophobia_flee.description"
+  "name": "Arachnophobia",
+  "description": "Movement speed x1.35 while a spider is within 8 blocks."
 }

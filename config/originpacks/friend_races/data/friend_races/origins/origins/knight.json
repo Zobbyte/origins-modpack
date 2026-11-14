@@ -1,6 +1,6 @@
 {
-  "name": "origins.friend_races.knight.name",
-  "description": "origins.friend_races.knight.description",
+  "name": "Knight",
+  "description": "A grounded frontliner who times a defensive stand, with sturdy health and armor training, at the cost of a bigger appetite and heavier swimming.",
   "icon": "minecraft:shield",
   "impact": "medium",
   "order": 3,

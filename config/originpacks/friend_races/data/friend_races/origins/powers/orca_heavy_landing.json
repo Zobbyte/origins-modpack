@@ -3,6 +3,6 @@
   "attribute": "minecraft:generic.fall_damage_multiplier",
   "amount": 0.2,
   "operation": "add_multiplied_total",
-  "name": "power.friend_races.orca_heavy_landing.name",
-  "description": "power.friend_races.orca_heavy_landing.description"
+  "name": "Heavy Landing",
+  "description": "Take 20% more fall damage, and fall damage is halved for 4 seconds after a Breach."
 }

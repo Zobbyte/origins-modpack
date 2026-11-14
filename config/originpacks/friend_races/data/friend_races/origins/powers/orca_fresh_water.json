@@ -1,0 +1,14 @@
+{
+  "type": "neoorigins:action_on_event",
+  "event": "item_use_finish",
+  "item_condition": {
+    "item": "minecraft:potion"
+  },
+  "entity_action": {
+    "type": "neoorigins:change_resource",
+    "resource": "friend_races:orca_reserve",
+    "change": 150
+  },
+  "name": "Fresh Water",
+  "description": "Drinking a water bottle (or any potion) restores 150 Sea Reserve."
+}

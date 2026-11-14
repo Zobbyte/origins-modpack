@@ -1,10 +1,6 @@
 {
   "type": "neoorigins:action_on_event",
   "event": "hit_taken",
-  "entity_action": {
-    "type": "neoorigins:set_resource",
-    "resource": "friend_races:shy_guy_reveal_time",
-    "value": 60
-  },
+  "entity_action": { "type": "neoorigins:set_resource", "resource": "friend_races:shy_guy_reveal_time", "value": 20 },
   "hidden": true
 }

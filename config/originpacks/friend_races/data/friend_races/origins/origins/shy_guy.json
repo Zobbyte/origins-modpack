@@ -1,6 +1,6 @@
 {
-  "name": "origins.friend_races.shy_guy.name",
-  "description": "origins.friend_races.shy_guy.description",
+  "name": "Shy Guy",
+  "description": "A small, masked fiend: timid alone, bold in a crowd. Slips out of sight, tosses turnips, and bolts at the first sign of trouble, especially spiders.",
   "icon": "minecraft:carved_pumpkin",
   "impact": "high",
   "order": 2,
@@ -16,12 +16,18 @@
     "friend_races:shy_guy_arachnophobia_fear",
     "friend_races:shy_guy_arachnophobia_flee",
     "friend_races:shy_guy_small",
-    "friend_races:shy_guy_health",
     "friend_races:shy_guy_crowd",
     "friend_races:shy_guy_turnip",
     "friend_races:shy_guy_reveal_time",
     "friend_races:shy_guy_reveal_on_hit",
     "friend_races:shy_guy_reveal_on_hurt",
-    "friend_races:shy_guy_reveal_tick"
+    "friend_races:shy_guy_reveal_tick",
+    "friend_races:shy_guy_shake_off",
+    "friend_races:shy_guy_unseen",
+    "friend_races:shy_guy_vanish_time",
+    "friend_races:shy_guy_vanish_latch",
+    "friend_races:shy_guy_vanish_start",
+    "friend_races:shy_guy_vanish_reset",
+    "friend_races:shy_guy_vanish_tick"
   ]
 }

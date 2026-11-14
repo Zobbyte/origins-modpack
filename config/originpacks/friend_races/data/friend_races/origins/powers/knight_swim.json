@@ -3,6 +3,6 @@
   "attribute": "neoforge:swim_speed",
   "amount": -0.15,
   "operation": "add_multiplied_total",
-  "name": "power.friend_races.knight_swim.name",
-  "description": "power.friend_races.knight_swim.description"
+  "name": "Heavy Swimmer",
+  "description": "Swim-speed is decreased to x0.85."
 }

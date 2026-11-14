@@ -3,6 +3,6 @@
   "direction": "in",
   "multiplier": 1.25,
   "damage_type": "#minecraft:is_fire",
-  "name": "power.friend_races.watermelon_fire.name",
-  "description": "power.friend_races.watermelon_fire.description"
+  "name": "Roasted Rind",
+  "description": "Take x1.25 damage from fire sources."
 }

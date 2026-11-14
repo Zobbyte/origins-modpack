@@ -18,11 +18,11 @@
       {
         "type": "neoorigins:add_velocity",
         "space": "local_horizontal",
-        "z": 0.85
+        "z": 1.25
       },
       {
         "type": "neoorigins:add_velocity",
-        "y": 0.85
+        "y": 1.25
       },
       {
         "type": "neoorigins:play_sound",
@@ -33,7 +33,7 @@
       {
         "type": "neoorigins:set_resource",
         "resource": "friend_races:orca_breach_time",
-        "value": 80
+        "value": 40
       }
     ]
   },
@@ -41,6 +41,6 @@
   "hunger_cost": 0,
   "cooldown_icon": "minecraft:heart_of_the_sea",
   "always_show_icon": true,
-  "name": "power.friend_races.orca_breach.name",
-  "description": "power.friend_races.orca_breach.description"
+  "name": "Breach",
+  "description": "While sprint-swimming, press Hotkey 01 (bind to Space in Controls) to leap forward out of the water. 2-second cooldown."
 }

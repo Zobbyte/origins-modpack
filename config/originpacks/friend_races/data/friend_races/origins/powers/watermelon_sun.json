@@ -6,13 +6,20 @@
   "regen_rate": 1,
   "regen_interval": 20,
   "regen_condition": {
-    "type": "neoorigins:exposed_to_sun"
+    "type": "neoorigins:and",
+    "conditions": [
+      { "type": "neoorigins:daytime" },
+      { "type": "neoorigins:light_level", "light_type": "sky", "comparison": ">=", "compare_to": 13 },
+      { "type": "neoorigins:weather", "state": "clear" }
+    ]
   },
   "hud_render": {
     "label": "Stored sunlight",
     "color": "#E5BA49",
-    "always_render": true
+    "always_render": true,
+    "animated": "neoorigins:fire",
+    "text_outline": true
   },
-  "name": "power.friend_races.watermelon_sun.name",
-  "description": "power.friend_races.watermelon_sun.description"
+  "name": "Sun Power",
+  "description": "Gain 1 sunlight per second in direct sunlight, up to 120. Sunlight fuels Rolling Start, Share the Harvest, and Summer Glow."
 }

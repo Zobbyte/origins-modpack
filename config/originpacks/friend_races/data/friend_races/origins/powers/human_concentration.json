@@ -20,6 +20,6 @@
       }
     ]
   },
-  "name": "power.friend_races.human_concentration.name",
-  "description": "power.friend_races.human_concentration.description"
+  "name": "Concentration Cost",
+  "description": "The work burst slows movement to x0.90."
 }

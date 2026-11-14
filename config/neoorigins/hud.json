@@ -2,8 +2,8 @@
   "split_cooldown": false,
   "positions": {
     "friend_races:orca_reserve": {
-      "xPct": 0.009364937,
-      "yPct": 0.8632313,
+      "xPct": 0.004384697,
+      "yPct": 0.02415549,
       "scale": 1.0,
       "vertical": false
     },
@@ -14,8 +14,8 @@
       "vertical": false
     },
     "neoorigins:cooldown_cluster": {
-      "xPct": 0.020685744,
-      "yPct": 0.94853044,
+      "xPct": 0.4882904,
+      "yPct": 0.8900634,
       "scale": 1.0,
       "vertical": false
     }

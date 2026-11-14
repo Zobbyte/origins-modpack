@@ -1,0 +1,14 @@
+{
+  "type": "neoorigins:mobs_ignore_player",
+  "entity_blacklist": [
+    "#c:bosses",
+    "cataclysm:old_netherite_monstrosity",
+    "cataclysm:ancient_ancient_remnant"
+  ],
+  "power_condition": { "type": "neoorigins:and", "conditions": [
+    { "type": "neoorigins:sneaking" },
+    { "type": "neoorigins:resource", "resource": "friend_races:shy_guy_reveal_time", "comparison": "<=", "compare_to": 0 }
+  ] },
+  "power_condition_mode": "allow",
+  "hidden": true
+}

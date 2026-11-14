@@ -115,10 +115,3 @@
 	#skins, abilities and inventory are ALWAYS left open regardless.
 	#Allowed Values: DEFER, SUPPRESS, ALLOW
 	dragon_species_screens = "DEFER"
-
-#How power-granted wings look on this client.
-[wings]
-	#Hide wings that a power draws folded on the back while not gliding
-	#(render_elytra: "always", e.g. the Elytrian). They still appear
-	#while gliding. Affects every player's wings, on this screen only.
-	hide_folded_wings = false

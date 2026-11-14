@@ -2,6 +2,6 @@
   "type": "neoorigins:size_scaling",
   "scale": 1.30,
   "modify_reach": false,
-  "name": "power.friend_races.orca_size.name",
-  "description": "power.friend_races.orca_size.description"
+  "name": "Biggest Dolphin",
+  "description": "You are 130% normal size with normal reach."
 }

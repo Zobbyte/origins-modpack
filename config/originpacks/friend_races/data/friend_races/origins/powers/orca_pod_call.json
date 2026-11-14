@@ -20,6 +20,6 @@
   "resource_cost_amount": 60,
   "cooldown_icon": "minecraft:heart_of_the_sea",
   "always_show_icon": true,
-  "name": "power.friend_races.orca_pod_call.name",
-  "description": "power.friend_races.orca_pod_call.description"
+  "name": "Pod Call",
+  "description": "While submerged, give nearby players (12 blocks) Dolphin\u0027s Grace for 10 seconds and Water Breathing for 30 seconds. 90-second cooldown; costs 60 Sea Reserve."
 }

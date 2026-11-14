@@ -2,6 +2,6 @@
   "type": "neoorigins:modify_food_nutrition",
   "food_item": "minecraft:melon_slice",
   "nutrition": 4,
-  "name": "power.friend_races.watermelon_pantry.name",
-  "description": "power.friend_races.watermelon_pantry.description"
+  "name": "Melon Affinity",
+  "description": "Eating a melon slice restores 4 food points instead of 2. Saturation also scales proportionally (2.4 instead of 1.2)."
 }

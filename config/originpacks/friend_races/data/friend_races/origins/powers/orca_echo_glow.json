@@ -1,0 +1,27 @@
+{
+  "type": "neoorigins:entity_glow",
+  "entity_condition": {
+    "type": "neoorigins:or",
+    "conditions": [
+      { "type": "neoorigins:entity_type", "entity_type": "#friend_races:echo_targets" },
+      { "type": "neoorigins:entity_type", "entity_type": "#friend_races:echo_prey" }
+    ]
+  },
+  "bientity_condition": {
+    "type": "neoorigins:or",
+    "conditions": [
+      { "type": "neoorigins:and", "conditions": [
+        { "type": "neoorigins:actor_condition", "condition": { "type": "neoorigins:resource", "resource": "friend_races:orca_echo_water_time", "comparison": ">", "compare_to": 0 } },
+        { "type": "neoorigins:distance", "comparison": "<=", "compare_to": 48 }
+      ] },
+      { "type": "neoorigins:and", "conditions": [
+        { "type": "neoorigins:actor_condition", "condition": { "type": "neoorigins:resource", "resource": "friend_races:orca_echo_land_time", "comparison": ">", "compare_to": 0 } },
+        { "type": "neoorigins:distance", "comparison": "<=", "compare_to": 16 },
+        { "type": "neoorigins:target_condition", "condition": { "type": "neoorigins:entity_type", "entity_type": "#friend_races:echo_targets" } }
+      ] }
+    ]
+  },
+  "use_teams": false,
+  "red": 0.45, "green": 0.9, "blue": 1.0,
+  "hidden": true
+}

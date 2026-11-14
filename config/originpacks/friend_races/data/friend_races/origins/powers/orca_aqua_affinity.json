@@ -1,5 +1,5 @@
 {
   "type": "neoorigins:underwater_mining_speed",
-  "name": "power.friend_races.orca_aqua_affinity.name",
-  "description": "power.friend_races.orca_aqua_affinity.description"
+  "name": "Tidal Hands",
+  "description": "Mine blocks underwater at normal speed, unaffected by the usual underwater mining penalty."
 }

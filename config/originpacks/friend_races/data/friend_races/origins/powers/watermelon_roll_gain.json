@@ -10,6 +10,6 @@
   "condition": {
     "type": "neoorigins:sprinting"
   },
-  "name": "power.friend_races.watermelon_roll.name",
-  "description": "power.friend_races.watermelon_roll.description"
+  "name": "Rolling Start",
+  "description": "Sprinting builds momentum (full after about 12 seconds) that fades when you stop. With momentum, sprint speed rises to x1.10, then x1.21. Turn on Sun Dash for top speed (x1.45). Fall damage while rolling increases to x1.25 at half momentum and x1.50 near full."
 }

@@ -1,0 +1,14 @@
+{
+  "type": "neoorigins:condition_passive",
+  "interval": 1,
+  "toggleable": false,
+  "condition": { "type": "neoorigins:and", "conditions": [
+    { "type": "neoorigins:not", "condition": { "type": "neoorigins:and", "conditions": [
+      { "type": "neoorigins:sneaking" },
+      { "type": "neoorigins:resource", "resource": "friend_races:shy_guy_reveal_time", "comparison": "<=", "compare_to": 0 }
+    ] } },
+    { "type": "neoorigins:resource", "resource": "friend_races:shy_guy_vanish_latch", "comparison": "==", "compare_to": 1 }
+  ] },
+  "entity_action": { "type": "neoorigins:set_resource", "resource": "friend_races:shy_guy_vanish_latch", "value": 0 },
+  "hidden": true
+}

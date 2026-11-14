@@ -2,11 +2,16 @@
   "type": "neoorigins:condition_passive",
   "interval": 600,
   "toggleable": false,
-  "condition": { "type": "neoorigins:and", "conditions": [
-    { "type": "neoorigins:exposed_to_sun" },
-    { "type": "neoorigins:resource", "resource": "friend_races:watermelon_sun", "comparison": ">=", "compare_to": 120 }
-  ]},
+  "condition": {
+    "type": "neoorigins:and",
+    "conditions": [
+      { "type": "neoorigins:daytime" },
+      { "type": "neoorigins:light_level", "light_type": "sky", "comparison": ">=", "compare_to": 13 },
+      { "type": "neoorigins:weather", "state": "clear" },
+      { "type": "neoorigins:resource", "resource": "friend_races:watermelon_sun", "comparison": ">=", "compare_to": 120 }
+    ]
+  },
   "entity_action": { "type": "neoorigins:feed", "food": 1, "saturation": 0.3 },
-  "name": "power.friend_races.watermelon_photosynthesis.name",
-  "description": "power.friend_races.watermelon_photosynthesis.description"
+  "name": "Photosynthesis",
+  "description": "While in direct sunlight with a full sunlight bar, restore 1 hunger every 30 seconds."
 }

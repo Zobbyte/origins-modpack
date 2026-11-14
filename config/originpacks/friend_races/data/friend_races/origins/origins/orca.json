@@ -1,6 +1,6 @@
 {
-  "name": "origins.friend_races.orca.name",
-  "description": "origins.friend_races.orca.description",
+  "name": "Orca",
+  "description": "An aquatic hunter with powerful swimming, finite breath and cooperative sonar. Dry expeditions demand preparation.",
   "icon": "minecraft:cod",
   "impact": "high",
   "order": 0,
@@ -14,9 +14,7 @@
     "friend_races:orca_echo",
     "friend_races:orca_reserve",
     "friend_races:orca_reserve_tick",
-    "friend_races:orca_reserve_refill_low",
-    "friend_races:orca_reserve_refill_med",
-    "friend_races:orca_reserve_refill_high",
+    "friend_races:orca_reserve_refill",
     "friend_races:orca_dry_slow_max",
     "friend_races:orca_dry_hunger",
     "friend_races:orca_dry_regen",
@@ -39,6 +37,13 @@
     "friend_races:orca_apex",
     "friend_races:orca_shark_bane",
     "friend_races:orca_ray_hunter",
-    "friend_races:orca_heavy_landing"
+    "friend_races:orca_heavy_landing",
+    "friend_races:orca_fresh_water",
+    "friend_races:orca_aqua_affinity_cap",
+    "friend_races:orca_echo_water_time",
+    "friend_races:orca_echo_land_time",
+    "friend_races:orca_echo_tick",
+    "friend_races:orca_echo_glow",
+    "friend_races:orca_size_riding"
   ]
 }

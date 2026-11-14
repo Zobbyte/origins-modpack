@@ -5,6 +5,6 @@
     "operation": "multiplication",
     "value": 0.9
   },
-  "name": "power.friend_races.human_ration.name",
-  "description": "power.friend_races.human_ration.description"
+  "name": "Paced Effort",
+  "description": "Exhaustion from actions like running or jumping reduced to x0.90."
 }

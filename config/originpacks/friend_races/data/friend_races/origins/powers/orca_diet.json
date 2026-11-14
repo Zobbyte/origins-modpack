@@ -1,7 +1,7 @@
 {
   "type": "neoorigins:food_restriction",
-  "name": "power.friend_races.orca_diet.name",
-  "description": "power.friend_races.orca_diet.description",
+  "name": "Piscivore",
+  "description": "You can only eat fish. Raw fish restores 6-7 food points and cooked fish keeps you saturated for longer.",
   "mode": "whitelist",
   "item_tag": "#friend_races:fish_foods"
 }

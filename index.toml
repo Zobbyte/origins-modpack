@@ -946,7 +946,7 @@ hash = "562c99f929915baad6acbdb98655976062db39e8f26279c8cd3226ecdb2e8edd"
 
 [[files]]
 file = "config/neoorigins/client.toml"
-hash = "1f99436172e47333841545c3331313af4813f2dd39bd089c94b68074fb5b80c7"
+hash = "562c99f929915baad6acbdb98655976062db39e8f26279c8cd3226ecdb2e8edd"
 
 [[files]]
 file = "config/neoorigins/content-1.toml.bak"
@@ -978,7 +978,7 @@ hash = "87ee2a19329e9c011747240488f023e86cad4bd8e816a16ebd0299b6b7420774"
 
 [[files]]
 file = "config/neoorigins/hud.json"
-hash = "90eb26812896efd68189ea4e7cf962bf7b8990bb47cc2478268dd353d39f2440"
+hash = "1a1644d694e3b18bcd83b3ce0ea8ff4fa2122fe37df9863e7d17f25c9f689b0c"
 
 [[files]]
 file = "config/neoorigins/power_overrides-1.toml.bak"
@@ -997,8 +997,12 @@ file = "config/offroad-server.toml"
 hash = "d5f0ed8390618c769d9cb40a77df04779b7bbe636343b753c1ed6f92d325ae2b"
 
 [[files]]
+file = "config/originpacks/friend_races.zip"
+hash = "efadd165f9d95528612e0e896f5d3e9423364e83fd989ac3e4a395407a7273cd"
+
+[[files]]
 file = "config/originpacks/friend_races/assets/friend_races/lang/en_us.json"
-hash = "477d0f96a09007d796a2e732667f636574b655b9aa47ddcc30ac7bedfa4575f9"
+hash = "bbec4c8a29281aac6a6bdc4891e842d7113fae3935f16e63c55ff1de26393b76"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/global_powers/keep_ultimine.json"
@@ -1006,35 +1010,35 @@ hash = "21dc935f3c207ff4f32a80fa9a93e01c2a4475359a340c644d1cc4c037a64e29"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/origins/human.json"
-hash = "bbeace8e4475885d2c219a572a01216d3a2c7990bf73240a19fadee7e1330bb7"
+hash = "c0bd639cdb224c716366afbbe6ca14767f10f436a2ac63cf4bf0db8c831b1304"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/origins/knight.json"
-hash = "2d0cb8e2b8d0b9fb751a871fcb865c5e2894494feaf61b147fff771b34e9cf0e"
+hash = "16e80739f54e651a15906a0102eb5746153f4d69d9d5352e137270b04e7c4f7e"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/origins/orca.json"
-hash = "f571b15e62763d06f7423324d0aae923e18064594ccae0c392f1f6347edf1ba9"
+hash = "3c69c3ddc20b7d4dde858be88761ac1505cfce71671de052cf74c5750d794ef5"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/origins/shy_guy.json"
-hash = "ef41248dad9b5fc5c6d6df0c873542069f9ac95d867c049ca89cd9720b389d1c"
+hash = "1cb346d6db87c29f0045535a00026553a59fbfaef54171b3da657f87fa15fb2d"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/origins/watermelon.json"
-hash = "5bcf88a952028093fb78aab3b8e348874a9923d1161484ecd02ba62c94951ef6"
+hash = "3f95e27d1d19e91043a73ba354e68b1aa09186546338b0bef3fa6eafb316499c"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/human_attunement.json"
-hash = "f69d00c0ce7b290f969d40cd9c72b69258f74d0bd7fdb78188a300b797b1985c"
+hash = "7d92c53e90c199ec663b2407d6ebd4f66ad3bc519b6c3d0125d5cf0cb9756337"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/human_concentration.json"
-hash = "02b233874862c8aa25ece671fbc5144eca941c3f773b88f04fce6fbcd9439735"
+hash = "cd61f6c7782362a68b3feba99b96a952fdad0bb5495f12fc0baf52c19bc53f0c"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/human_fatigue.json"
-hash = "77b36200670038890aa99d1381b64185b7e3bdeb7af079fe5df3491a038ccd4c"
+hash = "c789c02be00c1ca431b0f7b6f9aab6379105881932af38740568695702efc0dd"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/human_fatigue_attack.json"
@@ -1042,7 +1046,7 @@ hash = "de853863f223c9a0aa772f39346d77c1fc0ba05a3af57d2b8ba9c7a90ac65a60"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/human_focus.json"
-hash = "ffe4b3aa07e5ac2b0438f58fc369eca91e785bf6bad68a4f286efec5808644fe"
+hash = "6574279f364d9f9c7e642cb250bbc05c970ec3d9f215ab6abf2cfdcc16413067"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/human_focus_mode.json"
@@ -1058,19 +1062,19 @@ hash = "24b220dd722cd38e2e9b8df689bdb04f4b1cc99871d2ea27e1e725ba9032b6df"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/human_practical.json"
-hash = "1bb86ae804686323423fc62e6801e0d03839ffc9b41431e0cf1aa0556cb45e47"
+hash = "cf2dfe7a62ac82259396b7d5d482413435c5266bd6913bd4541236f6ba596d8a"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/human_ration.json"
-hash = "7f0902d54487925e9ba69e7b13007e97be855096baf7f9994f9643adc2ac906c"
+hash = "5249845b533a6e59d75fe337d1432aad7d92401fd895ecd276ccdb1a09fb8ada"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/human_repair.json"
-hash = "150eeb5f6d43e803a84698b3b1a81a105c6451f5817a8eaa2e3ec8667c745bff"
+hash = "0013f1ad5be880e2f019695558cb3ccd51e5b1fc8d19e5a18f3fde7b95ef1b91"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/human_study.json"
-hash = "74a13d07e419f6557d5a92679f377e7b8422c743646a3499d71509f0758ed497"
+hash = "29c9aee56c622e8e6e93205fe1b96469495fd1500d01fdf8e6691909e5b65100"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/human_travel_speed.json"
@@ -1082,7 +1086,7 @@ hash = "07b7efab94ae912c08ec8cbee45f55515deeefdb7f292bf7c20415937726bdec"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/knight_brace.json"
-hash = "b6569dce04098875c678df0d8eccd0f99e39f5fc011dabb60cb299a6178ba796"
+hash = "5591fd50d6dfaa28ca871fba37efad572374f388f4ad9d97a9dab7e22ee58201"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/knight_brace_damage.json"
@@ -1114,7 +1118,7 @@ hash = "f0deca067acf03684fef45c24ebaefb2e891045ba73b80649da2d9bcf3783468"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/knight_counter_open.json"
-hash = "eace3cae873cb79af54cc332ef7e050b1b8f8c372051140782e1a9da438b7b4a"
+hash = "480a472270075fcb6cf9a8614f11f3e05f9f22ba982abe31214823b5082803a0"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/knight_counter_time.json"
@@ -1126,43 +1130,47 @@ hash = "d944f260399dea89572d19d1f9a079b89fabd3e1e6cb5e86385c468d9873f9d2"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/knight_health.json"
-hash = "dae93aff9a42b61e3aaff35c80f8c98d7c6942842f0d1be9e61e120406df5a8b"
+hash = "d777de792bee153e8d56be7e5641401a6cf92a33e09cebb8344ca5fa0942951b"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/knight_oath.json"
-hash = "e04766d685d754823cbfffd080010924fd2773738881d2b3d182fc03130cdb98"
+hash = "2f6665070a203ff4bc67b7211651e88b8d63abd488d40873757110e795d839b7"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/knight_poise.json"
-hash = "c6bd55d8a1156f7a69aec38a721a0066f480bb8c6b0d2f224ada66d4f846c689"
+hash = "0f3412782cfa74b0b7838299c307f8c50943be1529f637844dfcf0b7ea24a900"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/knight_provisions.json"
-hash = "ab6dcf43134fe1a5a12757f3ce8c23bddd1192262d4c51e40bb745acf70222ea"
+hash = "a75e05cf1eb6512f92999a3f83bc955305250678dea8e5ea2dc935ff411d58ab"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/knight_shield.json"
-hash = "f1dbaed2f1e7cdea72375704cfb3a61c7db4d4ef1705c7d5c7004d51f62f6d72"
+hash = "c0fa49f9235203b39be900aee38a2b77df5cf0628135d760529008e23707f856"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/knight_swim.json"
-hash = "bf46c1253aba2a3c55e49a5b36aad9f2c829d69a9f06b324eb42ce043eca5585"
+hash = "ed40f49c26594c6d092d2135f1ede73ed3016b825e306232e66dd09bd689f715"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/knight_training.json"
-hash = "f01caaabeff84a8928e4260275f41c9af7fb02f5dd08c7829e5524f3487d07c3"
+hash = "3ffd91fc6d0cdffb95ee93bdad65bf7391e376ec63e0cf62c15342219063d7a3"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_apex.json"
-hash = "2ffa8be6d523b8b7462dbda80a8e96ded8de06324479392a6e91db59f008e19a"
+hash = "f4a2a803d11f3c5a93079d1df6fa7e528b80aa42bcaf2ad337356f9f48fbaa8e"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_aqua_affinity.json"
-hash = "35ba42531caab1afc8a3a031bc6bfe47996e46737f4a0d6624b7100cf4076144"
+hash = "a4e3b957d463de8fe0212c3fd063324befddeafe098e24218b387c010e57532a"
+
+[[files]]
+file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_aqua_affinity_cap.json"
+hash = "ab7230598131d0396549ce3a3b3395fc6c37816e1d0519ef83e2773e83b1a98d"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_breach.json"
-hash = "a1ba70c72caebbf4362c85845bc402b6d79fe629bfb4fc78b61948e401410430"
+hash = "cd9162af877d2e9ff7503a3f5569cbe624fd43f32f78a8ea583aa71d104bbe9b"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_breach_fall.json"
@@ -1178,7 +1186,7 @@ hash = "c0189d5b3a5f6135d3d33e7e071bcfcaa60d92770504eee389b5491be5c3b902"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_diet.json"
-hash = "ccad989c8aa3531ec53f9d6f0c393c2f7237dad0dc66d3022d9d22c458c82398"
+hash = "0d6b4d07ec566f9abae7da7de98033f46c238065a2fcc4e732a9f0528ae3ffab"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_diet_cooked_cod.json"
@@ -1218,31 +1226,51 @@ hash = "6636819da6cf4604a7fd914267c7a631f39e9fef19f61e8010960760398d1185"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_dry_slow_max.json"
-hash = "6234f24f3d6611de11833eba97cea8a114b1f2fc09809ecf631ff060ead3774e"
+hash = "24d57b806ec7b6a1f6d4eb05e8ca0728caec0b26f341788a966828e08aa54bee"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_echo.json"
-hash = "95080b8db51e5338f1a6bacea2b5b5f2aede472b42cc01cf325240cab2d596e7"
+hash = "987dc08593005ad758961b3d0011cff2421a37727001ac2a4075ec635c325e2d"
+
+[[files]]
+file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_echo_glow.json"
+hash = "2fe7fc480534a3b9e69df9e9f4a0fc98ec23589057feabfb0ac1734386049abe"
+
+[[files]]
+file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_echo_land_time.json"
+hash = "5044aaf52d5ce11e8ed918692dc18e2303b490420d57f9afc936d9084cc91484"
+
+[[files]]
+file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_echo_tick.json"
+hash = "036f19102a68d0d5689160ee86a2af64415e6db06831c17b119ed2cd56e1b6fa"
+
+[[files]]
+file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_echo_water_time.json"
+hash = "5044aaf52d5ce11e8ed918692dc18e2303b490420d57f9afc936d9084cc91484"
+
+[[files]]
+file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_fresh_water.json"
+hash = "6a1d53aeabdd7e86eb1d27b5628f74de65b477ead9716a37f2ab98db451dbe3e"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_heat.json"
-hash = "07d6a6da699c58eb401ed626ef908f6509c4ab22e50b7a65e9f94f55414ee0b2"
+hash = "c21d9162c850914ab8ad0cb8db8a39f176073a340aac9f3b906122da9a1e24f3"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_heavy_landing.json"
-hash = "27f2b8e42fccf0f1c05cd88eb4958db44c1a63651483c3e1d24a9f35c2fb985d"
+hash = "789259107c154685f29dcca545b33e32088c0bc5199401d00dbe942fc1ff738e"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_hunter.json"
-hash = "89ff352284949ba4af7fd688be93be593301eb664e17816ffaafc3ce1914bfea"
+hash = "1654bfd2dfbf6e38a2617816143a6e2281367a5769840e3cc1e8561d53e22ad9"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_lungs.json"
-hash = "bd4a16d6b0f738baebad41862aa17becb1cab145bbc0e6dafa9fc6bb20c1dcb7"
+hash = "9f76e376acf07f7109a973cfd1d3954b3dc22be111fbed0649cbd3f5c3d9b3a8"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_mass.json"
-hash = "ba5260b116e49d1be5495c86bcaaccbbc274fa08d56ef40ea50158b318611c88"
+hash = "dbbaebf3df287eecb19887d2bec95aa6949a156ac544adf2ec25dd5aec20a8d2"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_mass_water.json"
@@ -1250,15 +1278,19 @@ hash = "8c371abe6770c1c2036fe1ba254e85e422cd7f192db9121c6fc5db9089b48f3e"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_pod_call.json"
-hash = "643a444ccb50d1f32a1f521e606d35863378973f87756c35ec8a7b4c232ae9eb"
+hash = "716142491cdf62fca6dfa5c2abf5d8bf5778f9cf5f2463cb06275ffc92fd6877"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_ray_hunter.json"
-hash = "6a5c38f5f8080f593d9a3e9b4b48f227ee017df1cae53d5a0108f0d5ea9f4f34"
+hash = "b52328326c0217f8caeb80a5ab6066c03856baa7df73dc6e1e6fd5a778ae96c0"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_reserve.json"
-hash = "89b288dfa0a7468cd8290aef14510ee2f6845cf6b7baf6108752c787b6f23e9e"
+hash = "e488a1ceae0e083916330595292a18fb03e81a4c4e2ea6e22f4d269baf7684da"
+
+[[files]]
+file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_reserve_refill.json"
+hash = "8b87edfd36276867e738f669965ffaedcf442501c5672edcd4ca01ad3361fcdd"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_reserve_refill_high.json"
@@ -1274,23 +1306,27 @@ hash = "23570da8ddd551d01ee1ea227aa53e9b75535d01bfc9b4dc858f87e6e579b5e0"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_reserve_tick.json"
-hash = "2f8863f51313d700994bdc23de862b8d1ea733f7c29dc26d0eb69e59cc6c3e58"
+hash = "f3f75793aff85738bc7e8a1158ae7bf47f1b0dc0565a2180a10860ce2b57ab57"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_shark_bane.json"
-hash = "ca20544480195b01b176de3a85a5c0ffc819f91b1af152efbf2d477ab5676c7d"
+hash = "cc32f8f5227fc1137049eb2a66023fdcba1aada1e8e7f0a19c0bfbb6bc8fa175"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_size.json"
-hash = "69a88ff6b3bb5dea701a08de800cde358231665c0006849f385f35a612353cef"
+hash = "632ba6fee0b802e2c69e285fd35efd1f24028f147cd9399626efa0bf45f9142d"
+
+[[files]]
+file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_size_riding.json"
+hash = "44d7c53ac326cb3c733d5097d9f3c2b572c11b1adba5837c79d7edfb910eb54a"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_swimmer.json"
-hash = "6287393a2f85387f4841b9da5cb9a111ad2ee05b44ca83c63f140dcccfda4301"
+hash = "5c03c5a1f40161298c98a0b11d865be394963f97e56067d34d2e990707deaca5"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_vision.json"
-hash = "ca52746a2ab50848f45d27b13258b26b726995e124fea9fe902ae00f17bca495"
+hash = "17fc1dc86ee6af9f39529ef130a96bb8e7210661cbf0202ffb09ea485094e7a8"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/shared_ultimine.json"
@@ -1298,19 +1334,19 @@ hash = "88b016ab991db0c50e1049f7ccfe3183f496ff0fdd400942b638c26c783730f2"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/shy_guy_arachnophobia_fear.json"
-hash = "26b136e3d10f35574d1af2d86b43589a371aea90f87d4b483951164aeb6f086d"
+hash = "8cec7f7881d7e5e3fc40d75549c586f74c606a2c1a9dc77a17e58d647f6f3ff8"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/shy_guy_arachnophobia_flee.json"
-hash = "30ed973bb01ea4867e859e47c77c98eaf4e47edfefc225db7fd7afb4b1258886"
+hash = "a7aec85f76c8806e5efe773c03c843d663fe5255f3b4ccf510c27d5b97937925"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/shy_guy_crowd.json"
-hash = "12f70dfa9137b04defc79252a6dbfb4eaa9049b780b31063924f337f70a4dae8"
+hash = "b36d871663caa1b38eb7c771160275439983359c979fda22fffc5500d1cde25b"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/shy_guy_exit.json"
-hash = "3f6bb0caee855581d1cf6d23deffa471f42bb0d1e32b8dfb01a06b03664c3e2d"
+hash = "76ea4c5be535431b2ea34cad25e34a6281e8eec9d5edc82f0299c227fcdd7888"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/shy_guy_exit_damage.json"
@@ -1334,15 +1370,15 @@ hash = "43e5f8085aabbb815ddfb7d57e89153fb7ffaeecce7a339bf5dd3fd85209786d"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/shy_guy_out_of_sight.json"
-hash = "97f371b17a1b4936216bbc386fe28eef7ae4eaa103adda9ac30ef998838a4608"
+hash = "531d57d04aeebb7cf258999023432b00e6f71ebb357ba38b9c0cf842abac888c"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/shy_guy_reveal_on_hit.json"
-hash = "7da0e2e59b9ac69f2a6f02cb98f32e2f38ef928f618b5f91f6c88a1bd5511b4a"
+hash = "1aa1247cd2c818bd92e05c3efb0219519fb06b7c70538503c86c5c42ead4f56d"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/shy_guy_reveal_on_hurt.json"
-hash = "52e52555109ee72999b478fcfe2fff58cc917c3bde9b15229fd45b9aaaac9ba9"
+hash = "65228234b9c0b5c9cfdf5c197bd6991b1d37c9fb72f25903cc7e774251a2b0a0"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/shy_guy_reveal_tick.json"
@@ -1353,40 +1389,72 @@ file = "config/originpacks/friend_races/data/friend_races/origins/powers/shy_guy
 hash = "76e0f6994d14c228e89329d11d9b2124ee711f4349650f5fb8aac8c368612437"
 
 [[files]]
+file = "config/originpacks/friend_races/data/friend_races/origins/powers/shy_guy_shake_off.json"
+hash = "c79cda07fcd1d8dd2ce8c85e681d48a505f38c873a75456d276cb12602e2d6bf"
+
+[[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/shy_guy_small.json"
-hash = "fdb4a7f80088c925f5089ee661020d9e8d88dbb4b897eaef0e6ee0d28bfbb9a0"
+hash = "8a943bf05525bb51afc684fb26c3d1335748e5da56b2915d378261ee2db4e515"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/shy_guy_soles.json"
-hash = "60ba2e1fd1d03dff11269f1e315358635c0fe89bf71b4cbae7869ed4ded39553"
+hash = "62b40fbe8533b3e29f067315aad063a81f1720a2af760d64ac1d1b12e8724870"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/shy_guy_tumble.json"
-hash = "cff7d7e462fa417c092f819ff87db31dab27f7cbb906723edc1d545e1552f58a"
+hash = "e8be957443beaaea9c1e6dc09730795d5a6b04fa0ac4add6d2ba66bebb1dc947"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/shy_guy_turnip.json"
-hash = "76b6e0a81e17a34990ce2947f15f763ca92462133943535c86da9908d8a08f79"
+hash = "1b42ec731d92253abdcb0ced27a0e65aa9c2e633be4c44be3b4ef9b88f60ad6f"
+
+[[files]]
+file = "config/originpacks/friend_races/data/friend_races/origins/powers/shy_guy_unseen.json"
+hash = "5b6a35336a26d722428285c8dcbe7d9ab2c9c07c0735b1db3d9ae450fb546b47"
+
+[[files]]
+file = "config/originpacks/friend_races/data/friend_races/origins/powers/shy_guy_vanish_latch.json"
+hash = "30caced62de6256289f78e7c5808f3b5c9b77f474334397fa173089579069d53"
+
+[[files]]
+file = "config/originpacks/friend_races/data/friend_races/origins/powers/shy_guy_vanish_reset.json"
+hash = "8214e29234457c4e6bf82824bf14c7d532922155680c330a069bc5ece0fd0a21"
+
+[[files]]
+file = "config/originpacks/friend_races/data/friend_races/origins/powers/shy_guy_vanish_start.json"
+hash = "7b56c0a1949eb5b4289eb11b0c6d902730e6c63665f813987e4ade4d5aae54c9"
+
+[[files]]
+file = "config/originpacks/friend_races/data/friend_races/origins/powers/shy_guy_vanish_tick.json"
+hash = "283703c5cec45652eec7a369b11582031f1fdf3df457b51c7d845b5c72fef4ee"
+
+[[files]]
+file = "config/originpacks/friend_races/data/friend_races/origins/powers/shy_guy_vanish_time.json"
+hash = "76e0f6994d14c228e89329d11d9b2124ee711f4349650f5fb8aac8c368612437"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/watermelon_fire.json"
-hash = "45eea19ef305f4adcfab336c71c6ff3a62c86d1a1df340b7f68624c30056a60d"
+hash = "02c9719b6b83e72b8fdcf76dbac331f77e7f665e4bcbc98cd06b5ad897a872b9"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/watermelon_glow.json"
-hash = "1b3bfeae1ca341dbd612bef466fc227d42e5fc933db230657c12a1fcd3c2bab5"
+hash = "9e3418964f5ab0fffc2ffdc35dca851963eba82aa92026bb7580cb970ee853dd"
+
+[[files]]
+file = "config/originpacks/friend_races/data/friend_races/origins/powers/watermelon_melon_juice.json"
+hash = "1ac8c0f9a47f12496aac8d0865740f3fd5a1fda4221c8edfc9012e0792cecdc6"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/watermelon_pantry.json"
-hash = "cbb6fc30182e1ec115d8e81962b89cc974172a5280eab889c04de698190a9e8a"
+hash = "c2c5f7c5ea94ee5b254f79523061fee60610d6959177eda1bf5862cc81e0e045"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/watermelon_photosynthesis.json"
-hash = "2f6bf47b2c009a1e2e98f715e5725c76d4494db0179c9d62a5d64048ab514460"
+hash = "882c52f4417cb3659051f1fd393ae8d2362a4bd67cea9cfa5224c74c7e8f6804"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/watermelon_rind.json"
-hash = "16cb129875f07fa44d9713fa0c8352241d18ff3f1d189d094ea1b3b254b9bfbc"
+hash = "b754af81ae2e31883ea80b9f2e6b3537960d5aef723fea3ab77e92571ea78e03"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/watermelon_roll.json"
@@ -1406,7 +1474,7 @@ hash = "56f7c3423760c95910fbd9d26f0f1a88567c2ae7549f7d3c7561a567bf207c4d"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/watermelon_roll_gain.json"
-hash = "21a3d71b19658201887c581e7d747f1111333d9aa6a4f642998f2838af705049"
+hash = "75608f60cb538fde8afb658ffe4a9086f5d74e669f6c472e99a8350bfdfbfa8d"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/watermelon_roll_speed_1.json"
@@ -1418,23 +1486,35 @@ hash = "4216452e376342cecbef9bb6a6276443220892758d0ba2168917fa86c4fc5d6b"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/watermelon_roll_speed_3.json"
-hash = "3121e3af15dbc22f9e0dda0427d5c86ff6725915fabe85816a2f3c7965c85a3f"
+hash = "a059f81c4f3cffb2bd8f7c3cbef06f819d543dcca9d4ad7b0c209836f68d5d5e"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/watermelon_roll_sun_cost.json"
-hash = "98eef39b41a1eda357276477056b8287f59d2df474783a4c9e6af8935ad257b9"
+hash = "3db657cecfa53362fd574717e6269caef7922aae811e6b9b77bed13078429cbd"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/watermelon_share.json"
-hash = "66972a7171b8543789c04fb3f5d3455be86bfc3cf31f7d28ffa8fe1765fdec24"
+hash = "935c259f997930a38a97d9954ed785cb8509402deb3d5c166cbf07718e92201e"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/watermelon_slow.json"
-hash = "c0d84b4e35ffb50727a8d585c9198f97ebdce12d4bf61ceb524ebac4aa4a1b7d"
+hash = "becfe3a99ac8301a93383d024ac9007e9ee8337e21d3b749a3aea00b21101d98"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/watermelon_sun.json"
-hash = "f01a7cf1c64516a665c216001303d8296d42bccc42ae34b9c99d9307a24a3b75"
+hash = "58d2b620cfc8599ecbd823cf15d7882052686a35a748022e3b489e139639dcd2"
+
+[[files]]
+file = "config/originpacks/friend_races/data/friend_races/origins/powers/watermelon_sun_dash.json"
+hash = "f0be543e82cb8a099c7b9678f7ff8fb0c05e92811fc56eceebdaa03cd4d12439"
+
+[[files]]
+file = "config/originpacks/friend_races/data/friend_races/origins/powers/watermelon_sun_dash_off.json"
+hash = "ef6c85e7bf93b1e0529a4011116f008b6dbbd5ce08004c12427a46437f2247a3"
+
+[[files]]
+file = "config/originpacks/friend_races/data/friend_races/origins/powers/watermelon_sun_dash_toggle.json"
+hash = "995a164090b0b7fdd32a7eb3f239c3e07843488286f2c5f400e276f229fa6d5e"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/tags/entity_type/echo_prey.json"
@@ -1442,11 +1522,15 @@ hash = "14de9b30273ef3681f057a9706c93344fae3fcc47414c8b90ea3f4954b514769"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/tags/entity_type/echo_targets.json"
-hash = "3f5562d204ab0631e7508cd1522ebda212100fbaa79e36e3d640a8341bbbf90f"
+hash = "8de82d4245bc7ad5ac46b251263bc6bcf8d898233c0718e6930cc9c8f67a8360"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/tags/entity_type/orca_prey.json"
 hash = "d4460303c50ed057aee528453b388bf0eb7ab2f060a6070e6769a961a689acaf"
+
+[[files]]
+file = "config/originpacks/friend_races/data/friend_races/tags/entity_type/shy_guy_loses_track.json"
+hash = "50724cde0749c3a77b9a736da33684091bea7330cbca7f230483fcdc556843f4"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/tags/item/fish_foods.json"
@@ -1471,6 +1555,18 @@ hash = "0dea395075840fcd8e6bb0525a8dbf0ea1e9bfaf421ef8396ab8e15e9dc5fd96"
 [[files]]
 file = "config/originpacks/friend_races/data/neoorigins/origins/origin_layers/origin.json"
 hash = "16a8cf48a720a03ea76039af0e9122d75a985306944dff622850907397bdf61b"
+
+[[files]]
+file = "config/originpacks/friend_races/friend_races_assets/assets.zip"
+hash = "342a6a41e75912dd5dca8bd82ee468d7b72563e57b5af20b181a30dab5d3fc8f"
+
+[[files]]
+file = "config/originpacks/friend_races/friend_races_assets/assets/friend_races/lang/en_us.json"
+hash = "bbec4c8a29281aac6a6bdc4891e842d7113fae3935f16e63c55ff1de26393b76"
+
+[[files]]
+file = "config/originpacks/friend_races/friend_races_assets/pack.mcmeta"
+hash = "06b213b6c703a73d438d96ea71c61106d0fcf1023ad3837b4c88b96623c18183"
 
 [[files]]
 file = "config/originpacks/friend_races/pack.mcmeta"

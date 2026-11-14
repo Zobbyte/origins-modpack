@@ -22,6 +22,6 @@
   },
   "cooldown_icon": "minecraft:sunflower",
   "always_show_icon": true,
-  "name": "power.friend_races.watermelon_glow.name",
-  "description": "power.friend_races.watermelon_glow.description"
+  "name": "Summer Glow",
+  "description": "Toggle: every 4 seconds, heal each player within 6 blocks, including yourself, for 1 HP. Each pulse costs 5 sunlight and turns off automatically when sunlight runs out."
 }

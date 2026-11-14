@@ -1,0 +1,64 @@
+{
+  "type": "neoorigins:active_ability",
+  "entity_action": {
+    "type": "neoorigins:if_else",
+    "condition": {
+      "type": "neoorigins:resource",
+      "resource": "friend_races:watermelon_sun_dash",
+      "comparison": "==",
+      "compare_to": 1
+    },
+    "if_action": {
+      "type": "neoorigins:and",
+      "actions": [
+        {
+          "type": "neoorigins:set_resource",
+          "resource": "friend_races:watermelon_sun_dash",
+          "value": 0
+        },
+        {
+          "type": "neoorigins:play_sound",
+          "sound": "minecraft:block.beacon.deactivate",
+          "volume": 0.8,
+          "pitch": 1.4
+        }
+      ]
+    },
+    "else_action": {
+      "type": "neoorigins:if_else",
+      "condition": {
+        "type": "neoorigins:resource",
+        "resource": "friend_races:watermelon_sun",
+        "comparison": ">",
+        "compare_to": 0
+      },
+      "if_action": {
+        "type": "neoorigins:and",
+        "actions": [
+          {
+            "type": "neoorigins:set_resource",
+            "resource": "friend_races:watermelon_sun_dash",
+            "value": 1
+          },
+          {
+            "type": "neoorigins:play_sound",
+            "sound": "minecraft:block.beacon.activate",
+            "volume": 0.8,
+            "pitch": 1.6
+          }
+        ]
+      },
+      "else_action": {
+        "type": "neoorigins:play_sound",
+        "sound": "minecraft:block.note_block.bass",
+        "volume": 0.8,
+        "pitch": 0.6
+      }
+    }
+  },
+  "cooldown_ticks": 10,
+  "cooldown_icon": "minecraft:sugar",
+  "always_show_icon": true,
+  "name": "Sun Dash",
+  "description": "Toggle. While on, full-momentum sprinting reaches top speed (x1.45) and burns 5 sunlight per second. Turns itself off when sunlight runs out; press again to restart once you\u0027ve stored more."
+}

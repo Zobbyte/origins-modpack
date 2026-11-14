@@ -1,6 +1,6 @@
 {
-  "name": "origins.friend_races.watermelon.name",
-  "description": "origins.friend_races.watermelon.description",
+  "name": "Watermelon",
+  "description": "A sturdy character who photosynthesizes food and health, and stores sunlight for group healing. Makes melon slices a real meal.",
   "icon": "minecraft:melon_slice",
   "impact": "medium",
   "order": 1,
@@ -21,6 +21,10 @@
     "friend_races:watermelon_roll_fall_1",
     "friend_races:watermelon_roll_fall_2",
     "friend_races:watermelon_roll_sun_cost",
-    "friend_races:watermelon_photosynthesis"
+    "friend_races:watermelon_photosynthesis",
+    "friend_races:watermelon_sun_dash",
+    "friend_races:watermelon_sun_dash_toggle",
+    "friend_races:watermelon_sun_dash_off",
+    "friend_races:watermelon_melon_juice"
   ]
 }

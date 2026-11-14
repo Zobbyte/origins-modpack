@@ -3,6 +3,6 @@
   "attribute": "minecraft:generic.oxygen_bonus",
   "amount": 6,
   "operation": "add_value",
-  "name": "power.friend_races.orca_lungs.name",
-  "description": "power.friend_races.orca_lungs.description"
+  "name": "Mammalian Lungs",
+  "description": "+6 oxygen bonus: approximately 105 seconds until air bubbles deplete."
 }

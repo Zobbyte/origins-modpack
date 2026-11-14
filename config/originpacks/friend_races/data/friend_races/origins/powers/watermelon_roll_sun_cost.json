@@ -21,9 +21,9 @@
       },
       {
         "type": "neoorigins:resource",
-        "resource": "friend_races:watermelon_sun",
-        "comparison": ">",
-        "compare_to": 0
+        "resource": "friend_races:watermelon_sun_dash",
+        "comparison": "==",
+        "compare_to": 1
       }
     ]
   },

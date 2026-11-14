@@ -3,6 +3,6 @@
   "attribute": "minecraft:generic.max_health",
   "amount": 4,
   "operation": "add_value",
-  "name": "power.friend_races.knight_health.name",
-  "description": "power.friend_races.knight_health.description"
+  "name": "Conditioned Veteran",
+  "description": "+4 maximum HP: 24 HP (12 hearts)."
 }

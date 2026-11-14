@@ -3,6 +3,6 @@
   "attribute": "irons_spellbooks:mana_regen",
   "amount": 0.10,
   "operation": "add_value",
-  "name": "power.friend_races.human_attunement.name",
-  "description": "power.friend_races.human_attunement.description"
+  "name": "Quick Learner\u0027s Mind",
+  "description": "Mana for Iron\u0027s Spells \u0027n Spellbooks regenerates x1.10."
 }

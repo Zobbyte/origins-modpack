@@ -20,6 +20,6 @@
       }
     ]
   },
-  "name": "power.friend_races.human_fatigue.name",
-  "description": "power.friend_races.human_fatigue.description"
+  "name": "Recovery Fatigue",
+  "description": "After either burst, suffer 10 seconds of x0.90 movement and attack speed."
 }

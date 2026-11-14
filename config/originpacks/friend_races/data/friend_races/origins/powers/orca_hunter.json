@@ -6,6 +6,6 @@
   "condition": {
     "type": "neoorigins:submerged_in_water"
   },
-  "name": "power.friend_races.orca_hunter.name",
-  "description": "power.friend_races.orca_hunter.description"
+  "name": "Underwater Hunter",
+  "description": "+1 melee attack-damage while your body is completely underwater."
 }

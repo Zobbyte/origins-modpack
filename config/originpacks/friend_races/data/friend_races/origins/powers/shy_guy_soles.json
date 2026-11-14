@@ -3,6 +3,6 @@
   "attribute": "minecraft:player.sneaking_speed",
   "amount": 0.15,
   "operation": "add_value",
-  "name": "power.friend_races.shy_guy_soles.name",
-  "description": "power.friend_races.shy_guy_soles.description"
+  "name": "Soft Soles",
+  "description": "+0.15 sneaking speed."
 }

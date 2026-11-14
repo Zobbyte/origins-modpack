@@ -1,0 +1,11 @@
+{
+  "type": "neoorigins:attribute_modifier",
+  "attribute": "minecraft:player.submerged_mining_speed",
+  "amount": -4.0,
+  "operation": "add_multiplied_base",
+  "condition": {
+    "type": "neoorigins:enchantment",
+    "enchantment": "minecraft:aqua_affinity"
+  },
+  "hidden": true
+}

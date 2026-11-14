@@ -9,6 +9,6 @@
   "hunger_cost": 2,
   "cooldown_icon": "minecraft:feather",
   "always_show_icon": true,
-  "name": "power.friend_races.shy_guy_exit.name",
-  "description": "power.friend_races.shy_guy_exit.description"
+  "name": "Stage Exit",
+  "description": "For 6 seconds, movement speed x1.25 but your attacks deal x0.75 damage. 30-second cooldown; costs 2 food points."
 }

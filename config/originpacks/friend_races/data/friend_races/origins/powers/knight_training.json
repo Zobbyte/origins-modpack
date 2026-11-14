@@ -8,6 +8,6 @@
     "comparison": ">=",
     "compare_to": 8
   },
-  "name": "power.friend_races.knight_training.name",
-  "description": "power.friend_races.knight_training.description"
+  "name": "Armor Training",
+  "description": "+2 armor toughness while total armor is at least 8."
 }

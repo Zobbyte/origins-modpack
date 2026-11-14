@@ -1,0 +1,39 @@
+{
+  "type": "neoorigins:condition_passive",
+  "interval": 1,
+  "toggleable": false,
+  "condition": {
+    "type": "neoorigins:and",
+    "conditions": [
+      {
+        "type": "neoorigins:resource",
+        "resource": "friend_races:watermelon_sun_dash",
+        "comparison": "==",
+        "compare_to": 1
+      },
+      {
+        "type": "neoorigins:resource",
+        "resource": "friend_races:watermelon_sun",
+        "comparison": "<=",
+        "compare_to": 0
+      }
+    ]
+  },
+  "entity_action": {
+    "type": "neoorigins:and",
+    "actions": [
+      {
+        "type": "neoorigins:set_resource",
+        "resource": "friend_races:watermelon_sun_dash",
+        "value": 0
+      },
+      {
+        "type": "neoorigins:play_sound",
+        "sound": "minecraft:block.beacon.deactivate",
+        "volume": 0.8,
+        "pitch": 1.4
+      }
+    ]
+  },
+  "hidden": true
+}

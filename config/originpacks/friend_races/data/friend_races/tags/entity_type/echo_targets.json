@@ -50,6 +50,12 @@
     {
       "id": "naturalist:great_white_shark",
       "required": false
-    }
+    },
+    { "id": "#friend_races:shy_guy_loses_track",
+     "required": false 
+    },
+    { "id": "#c:bosses", 
+    "required": false 
+  }
   ]
 }
