@@ -19,5 +19,5 @@
   "cooldown_icon": "minecraft:echo_shard",
   "always_show_icon": true,
   "name": "Echolocation",
-  "description": "While submerged, outline hostile creatures and sea life within 48 blocks for 8 seconds, through walls. On land, only hostiles within 16 blocks. Only you can see the outlines. 30-second cooldown; costs 40 Sea Reserve."
+  "description": "While submerged, outline hostile creatures (red) and sea life (blue) within 48 blocks for 8 seconds, through walls. On land, only hostiles within 16 blocks. Only you can see the outlines. 30-second cooldown; costs 40 Sea Reserve."
 }

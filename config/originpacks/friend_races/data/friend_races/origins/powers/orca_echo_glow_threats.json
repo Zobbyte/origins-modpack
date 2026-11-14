@@ -1,12 +1,6 @@
 {
   "type": "neoorigins:entity_glow",
-  "entity_condition": {
-    "type": "neoorigins:or",
-    "conditions": [
-      { "type": "neoorigins:entity_type", "entity_type": "#friend_races:echo_targets" },
-      { "type": "neoorigins:entity_type", "entity_type": "#friend_races:echo_prey" }
-    ]
-  },
+  "entity_condition": { "type": "neoorigins:entity_type", "entity_type": "#friend_races:echo_targets" },
   "bientity_condition": {
     "type": "neoorigins:or",
     "conditions": [
@@ -16,12 +10,11 @@
       ] },
       { "type": "neoorigins:and", "conditions": [
         { "type": "neoorigins:actor_condition", "condition": { "type": "neoorigins:resource", "resource": "friend_races:orca_echo_land_time", "comparison": ">", "compare_to": 0 } },
-        { "type": "neoorigins:distance", "comparison": "<=", "compare_to": 16 },
-        { "type": "neoorigins:target_condition", "condition": { "type": "neoorigins:entity_type", "entity_type": "#friend_races:echo_targets" } }
+        { "type": "neoorigins:distance", "comparison": "<=", "compare_to": 16 }
       ] }
     ]
   },
   "use_teams": false,
-  "red": 0.45, "green": 0.9, "blue": 1.0,
+  "red": 1.0, "green": 0.25, "blue": 0.25,
   "hidden": true
 }

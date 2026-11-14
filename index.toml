@@ -1018,7 +1018,7 @@ hash = "16e80739f54e651a15906a0102eb5746153f4d69d9d5352e137270b04e7c4f7e"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/origins/orca.json"
-hash = "3c69c3ddc20b7d4dde858be88761ac1505cfce71671de052cf74c5750d794ef5"
+hash = "bd11fe465ff52997ade9d0c3c498414a7f7658ca712eaf98cc6e4c6db70fffad"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/origins/shy_guy.json"
@@ -1230,11 +1230,15 @@ hash = "24d57b806ec7b6a1f6d4eb05e8ca0728caec0b26f341788a966828e08aa54bee"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_echo.json"
-hash = "987dc08593005ad758961b3d0011cff2421a37727001ac2a4075ec635c325e2d"
+hash = "078593c5b66f70044724c1816033ca48f0a79c46f1ac6b2dad845024fec77dc6"
 
 [[files]]
-file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_echo_glow.json"
-hash = "2fe7fc480534a3b9e69df9e9f4a0fc98ec23589057feabfb0ac1734386049abe"
+file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_echo_glow_prey.json"
+hash = "2e0dfc4f9fe0fefa6eabdfc560bf86ecc8bb34da332228623f006f2762d18303"
+
+[[files]]
+file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_echo_glow_threats.json"
+hash = "6afb8caf1aa386e921fa0d91b9a65cf9246e61b0222f93d9dceb41b45d8e13bd"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_echo_land_time.json"

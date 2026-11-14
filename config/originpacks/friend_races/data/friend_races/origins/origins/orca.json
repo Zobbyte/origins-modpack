@@ -43,7 +43,8 @@
     "friend_races:orca_echo_water_time",
     "friend_races:orca_echo_land_time",
     "friend_races:orca_echo_tick",
-    "friend_races:orca_echo_glow",
+    "friend_races:orca_echo_glow_threats",
+    "friend_races:orca_echo_glow_prey",
     "friend_races:orca_size_riding"
   ]
 }

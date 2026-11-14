@@ -1,0 +1,11 @@
+{
+  "type": "neoorigins:entity_glow",
+  "entity_condition": { "type": "neoorigins:entity_type", "entity_type": "#friend_races:echo_prey" },
+  "bientity_condition": { "type": "neoorigins:and", "conditions": [
+    { "type": "neoorigins:actor_condition", "condition": { "type": "neoorigins:resource", "resource": "friend_races:orca_echo_water_time", "comparison": ">", "compare_to": 0 } },
+    { "type": "neoorigins:distance", "comparison": "<=", "compare_to": 48 }
+  ] },
+  "use_teams": false,
+  "red": 0.3, "green": 0.85, "blue": 1.0,
+  "hidden": true
+}
