@@ -234,7 +234,7 @@ hash = "865a366143df5f4d92941058c823ea48deb8445f6444b45e870331b16a444f0f"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "294004f00c4fc217a460ac961fbd915f89ee291cd2356587cc0cfa855655f3f6"
+hash = "3a1f1dd0ad851632fd2e27b515d0dff9f3e6c65a381c3ac9904c3edb83a1a7ba"
 
 [[files]]
 file = "config/cataclysm-client.toml"
