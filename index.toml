@@ -2565,13 +2565,8 @@ hash = "cd39bad9c36e2cd5eb899f85d300f0485c4946f8fe1d5d73a3048a8a93091925"
 metafile = true
 
 [[files]]
-file = "mods/drive-by-wire-sable.pw.toml"
-hash = "dfcf0ef42d5dc33213781ebd3bc2c5e0debd9bb6540006d9941a02906fb33601"
-metafile = true
-
-[[files]]
-file = "mods/drive-by-wiretypewriter.pw.toml"
-hash = "5dd17d292d4144ff660f69af9172ccc0d7dbd2fecba8dcf069f954d056fadaab"
+file = "mods/drive-by-sable.pw.toml"
+hash = "97396ce6497542310eeaba1171c606ce461bfc0b8b6bf0c22bd44a45bfed1c5c"
 metafile = true
 
 [[files]]
