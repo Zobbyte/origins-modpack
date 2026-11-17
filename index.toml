@@ -550,7 +550,7 @@ hash = "442d3c73c8d0c64a2445ef0c31b618db0034a2f452bf15751ec337287f34ef0c"
 
 [[files]]
 file = "config/ftbessentials.snbt"
-hash = "586b35a2681e6326a6ecde72509d6c1554f5b18b41defb768d6d1570b7c71f8e"
+hash = "d3fdc2d21cec9814b4a950c77d33c5b317cca0dabea0e5c0bd7b06e16cfde6a0"
 
 [[files]]
 file = "config/ftblibrary-client.snbt"
