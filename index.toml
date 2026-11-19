@@ -2525,11 +2525,6 @@ hash = "8913bb244d45ff085d444bd9c0ea236ffb3414a608554766140a208ac973a5a6"
 metafile = true
 
 [[files]]
-file = "mods/createloconautics.pw.toml"
-hash = "075bbff94d93dc64557e5b4439402e98c46ca0444f7e779d66ef81070f25a4d0"
-metafile = true
-
-[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "6543ea97d951fa7e7f736b808c37b8b84a6c7a5d9a79adc2b90fdfbffe31d7d7"
 metafile = true
