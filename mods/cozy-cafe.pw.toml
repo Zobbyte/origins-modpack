@@ -1,13 +1,13 @@
 name = "Cozy Cafe"
-filename = "cozycafe-2.4-1.21.1.jar"
+filename = "cozycafe-2.5-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "195073a059c5139e45ee0f5551085c6dfb927dc9"
+hash = "c1856e191ead79c331a9589f7a74cec4f34a2e26"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 9429911
+file-id = 9656632
 project-id = 1590319

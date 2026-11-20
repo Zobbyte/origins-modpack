@@ -2230,6 +2230,11 @@ hash = "2dc498bd8a43a8e02fc9d08fe5846ac17f6eabbecbf38ae39aa7b1f23fe100b0"
 metafile = true
 
 [[files]]
+file = "mods/a-man-with-plushies.pw.toml"
+hash = "29fbcd5ef12fd11ab78e9696cd6ca7e2bf4ffc18ae4525ef81a7fc2c029a2678"
+metafile = true
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "e72892c2f468f3f766e8f22f16ea8184dea99b9e2bf66dcf8e255e7364513b11"
 metafile = true
@@ -2366,7 +2371,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "ef20c9f51f12e516c650f29a2caf3259bffdc5e0d2c82138b96106723e772776"
+hash = "72e96dedb2b1abe3a0ce6f97c93570a927f0821ff1e33150af32408e96ff8b3b"
 metafile = true
 
 [[files]]
@@ -2421,7 +2426,7 @@ metafile = true
 
 [[files]]
 file = "mods/cozy-cafe.pw.toml"
-hash = "b651e0d6606c14997bbe95f7d30deb2b5ff3fb29ae2483a460af03e10077de3d"
+hash = "69d58a60f5ddc636301b492bb00f49624364cac41a67ec8da9ff419ca26b186d"
 metafile = true
 
 [[files]]
@@ -2441,7 +2446,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
+hash = "19005d189b90d95b5b981784480f1a39bf24022535f71b9afd7175e17216a038"
 metafile = true
 
 [[files]]
@@ -2496,7 +2501,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-flight-control.pw.toml"
-hash = "6077cf471c7185f5cf52f11ecd9504a8e134ff2d9380426f1526078d25bcd99a"
+hash = "ee0169c5308cad4f1dcc425f5c0980b86a3c6752d7b05bc9ad571b747c3438ad"
 metafile = true
 
 [[files]]
@@ -2541,7 +2546,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+hash = "e622857e271e0ebd3d80f84f8230474d76f0150354cb06832deac2134448cbcb"
 metafile = true
 
 [[files]]
@@ -2557,6 +2562,11 @@ metafile = true
 [[files]]
 file = "mods/diagonal-windows.pw.toml"
 hash = "5280e0bcfa648658c572b9ffa12ff5e39374923b30c732d3ceff4ae7ed9228ff"
+metafile = true
+
+[[files]]
+file = "mods/display-delight.pw.toml"
+hash = "063634f47239896738fe3c27d33e3449f6f69cdef4400e2852240b2acf5fdfab"
 metafile = true
 
 [[files]]
@@ -2611,7 +2621,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "a37dc502c28a7749d3fe81265978c9085023195470260cbd635aff1b540d5b2a"
+hash = "82269fd7c1d622873161e50c5bc00d4ba85b15f698406559f2917a614c5cc136"
 metafile = true
 
 [[files]]
@@ -2731,12 +2741,12 @@ metafile = true
 
 [[files]]
 file = "mods/irons-lib.pw.toml"
-hash = "8d36b922cc93e73f0e61e65e8e6931b3c98de42c5c2448c489db01b0f4918526"
+hash = "01e7bccb2e9592d445afa073b52ef4d83c3dc02f1d9269a0b7e937a16245023c"
 metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "4f7ef8bd9e05ab690a81d0f698d38a25bbaf0729953fd015bca3a852aadf7689"
+hash = "8c586053dc2be56d21d52aa9c8c7b33bdf17b5e3f65216a6f18be258d06d7944"
 metafile = true
 
 [[files]]
@@ -2751,7 +2761,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "c656e98a9de48e4705c747f9b8af1dfb6df859084d8491ba5c28cf2ce80feff1"
+hash = "f41e770fd43bc984b72cbfe6f730ce92abce1ada6c7bd8ad6f018c60041c8b44"
 metafile = true
 
 [[files]]
@@ -2916,7 +2926,7 @@ metafile = true
 
 [[files]]
 file = "mods/neo-origins.pw.toml"
-hash = "bba0810fbaaa909b0e785dd7e2f3a013f196f79a2407a36424929719cee691ae"
+hash = "23320bb94332523b7db2b282b1617b092a228b7d5da85eedb2e277a7c03a57e6"
 metafile = true
 
 [[files]]
@@ -2936,7 +2946,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "8cebbb5931e6b3ebae29c62ef386da9d3da0b812a18eeb8a683ac60c65ba13c3"
+hash = "7661c721e6980f062179f23b6e28c5a6354919c78bbd93d511c394dc7e20b42f"
 metafile = true
 
 [[files]]
@@ -3121,17 +3131,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "882a37f53c24ebad93b2fcd5feb972154f9c6df42d94e4b9282edfdafe595f41"
+hash = "44fbfa6f8f0cda4f628d2f1488b758f84b27a05bbfde836cdfe6b176eb4e6b81"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "a9c525571077c7473c6f09bfe795d045d98b60092e779f259067a206a9190647"
+hash = "538402dccb562c05a3e126e2db0ee2d0d97e5227776c51c33834aeeb01c192a8"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "73534d02e03ffb423c3dd6abcae6cd85533306277774600a18a8691b8c5624a1"
+hash = "589ce9acb7d0fd2cb2323d871daba07615f5b7b5ed6a06cfa813740a4012c2fa"
 metafile = true
 
 [[files]]
@@ -3176,12 +3186,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "467c5dd5e4ca1b79e89e3693290574c0fce0e7fa45f92a256b645164173c7edf"
+hash = "bf4a329e0eb0da0334658a11abb8b5c7c5fe881779f4e01134a14087eeead5da"
 metafile = true
 
 [[files]]
 file = "mods/tenshilib.pw.toml"
-hash = "8de799a34620cbea5e1626dda0d411b2305d232a6d89827ceb81d5e5d3b0a10d"
+hash = "4c0fe4a32cb12f9215dbe7239f586d7cdea31afd542dee4daf3670f713c33315"
 metafile = true
 
 [[files]]
@@ -3211,7 +3221,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "b71d026ca97c10d2ce4a4ab584629f9e26d5a6b136287c9c82beee948b5e46fb"
+hash = "8eab5cc5fc19c6500ee37c351c0a72d57bd90209f04b2617bd271d3eda266f50"
 metafile = true
 
 [[files]]

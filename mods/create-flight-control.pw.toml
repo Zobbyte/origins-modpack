@@ -1,13 +1,13 @@
 name = "Create: Flight Control"
-filename = "create_flight_control-neoforge-0.8.4-beta.jar"
+filename = "create_flight_control-neoforge-0.8.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IGVrnkhH/versions/64FUKlgQ/create_flight_control-neoforge-0.8.4-beta.jar"
+url = "https://cdn.modrinth.com/data/IGVrnkhH/versions/7EiOHIDJ/create_flight_control-neoforge-0.8.5.jar"
 hash-format = "sha512"
-hash = "ba6a29a616d3521215d51c40f09cae6a73280d8d760468b29a1aa874ef98c1c9a35477d6290f9c0f0596756373b96fb93bd9c4fef066a184a18eb7934107615f"
+hash = "a05198650a2299494ac32f9ddc6ecb97ceae41802b90c8647167aee9c0a796c1387eef5e1dbaedc4d7b4d3a254742ef45866514531c6c8805f7f872613b8073a"
 
 [update]
 [update.modrinth]
 mod-id = "IGVrnkhH"
-version = "64FUKlgQ"
+version = "7EiOHIDJ"
