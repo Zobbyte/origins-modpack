@@ -1,0 +1,13 @@
+name = "Mine-Pop!"
+filename = "minepop-neoforge-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nwzdpMnQ/versions/Qat9pXP2/minepop-neoforge-1.21.1-2.0.0.jar"
+hash-format = "sha512"
+hash = "153079f5c4341104345b5b4d36aaefaa43c832bf5a336386724b96d5cb65ae3adcbaf8506f5c27b10d6462c5a1cf7b8c6c11d9ca3d748b0aebecfbd76c0dce70"
+
+[update]
+[update.modrinth]
+mod-id = "nwzdpMnQ"
+version = "Qat9pXP2"

@@ -2895,6 +2895,11 @@ hash = "8519aa4be4eaf1b4d8fc1ed18e36639a5241126851f8e8b03a0589759855f0c7"
 metafile = true
 
 [[files]]
+file = "mods/mine-pop.pw.toml"
+hash = "8b4f2e39218d91c74477d3d50a8c8cdda3d4be9c42483b2fa22cf182ddab7a02"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
 hash = "9df145eb4d59032b754eb0f3441261316ccdf718de56ad89029bf36b6f48a8c8"
 metafile = true
