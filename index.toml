@@ -2426,7 +2426,7 @@ metafile = true
 
 [[files]]
 file = "mods/cozy-cafe.pw.toml"
-hash = "daddabc587f05d1cc023c4d98262631860d862ce8ae17ce52b6299ec70a2196e"
+hash = "36fe24bc4b97b749764691ff1cd22ba9d11506b475b190c92440f5eec02b4c15"
 metafile = true
 
 [[files]]
