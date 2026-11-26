@@ -2510,6 +2510,11 @@ hash = "ee0169c5308cad4f1dcc425f5c0980b86a3c6752d7b05bc9ad571b747c3438ad"
 metafile = true
 
 [[files]]
+file = "mods/create-food.pw.toml"
+hash = "2dfd75dc868b7f72dea38cc4df954886a62fe3652ab90afdedc0031ce7372a01"
+metafile = true
+
+[[files]]
 file = "mods/create-goggles.pw.toml"
 hash = "9b831e115993c10d0e8b3d187584393685ba0abfaa3ab3ca6ee9dfdf6e1a8e70"
 metafile = true
