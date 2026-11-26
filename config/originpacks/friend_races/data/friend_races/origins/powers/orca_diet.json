@@ -1,7 +1,14 @@
 {
   "type": "neoorigins:food_restriction",
-  "name": "Piscivore",
-  "description": "You can only eat fish. Raw fish restores 6-7 food points and cooked fish keeps you saturated for longer.",
   "mode": "whitelist",
-  "item_tag": "#friend_races:fish_foods"
+  "item_tag": "#friend_races:fish_foods",
+  "power_condition": {
+    "type": "neoorigins:resource",
+    "resource": "friend_races:orca_reserve",
+    "comparison": "<",
+    "compare_to": 100
+  },
+  "power_condition_mode": "allow",
+  "name": "Dried Out",
+  "description": "Below 100 Sea Reserve, you can only stomach fish."
 }

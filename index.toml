@@ -997,10 +997,6 @@ file = "config/offroad-server.toml"
 hash = "d5f0ed8390618c769d9cb40a77df04779b7bbe636343b753c1ed6f92d325ae2b"
 
 [[files]]
-file = "config/originpacks/friend_races.zip"
-hash = "efadd165f9d95528612e0e896f5d3e9423364e83fd989ac3e4a395407a7273cd"
-
-[[files]]
 file = "config/originpacks/friend_races/assets/friend_races/lang/en_us.json"
 hash = "bbec4c8a29281aac6a6bdc4891e842d7113fae3935f16e63c55ff1de26393b76"
 
@@ -1018,7 +1014,7 @@ hash = "16e80739f54e651a15906a0102eb5746153f4d69d9d5352e137270b04e7c4f7e"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/origins/orca.json"
-hash = "bd11fe465ff52997ade9d0c3c498414a7f7658ca712eaf98cc6e4c6db70fffad"
+hash = "7804fe565e045606672c8f0a0d65bcdaa483e01b1621d6060142a12bf2885a1b"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/origins/shy_guy.json"
@@ -1186,7 +1182,7 @@ hash = "c0189d5b3a5f6135d3d33e7e071bcfcaa60d92770504eee389b5491be5c3b902"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_diet.json"
-hash = "0d6b4d07ec566f9abae7da7de98033f46c238065a2fcc4e732a9f0528ae3ffab"
+hash = "33b3a5b81d9c67a9a9f0402611d99785dbbc5fca51d96a093b759dd73004bfc3"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_diet_cooked_cod.json"
@@ -1267,6 +1263,10 @@ hash = "789259107c154685f29dcca545b33e32088c0bc5199401d00dbe942fc1ff738e"
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_hunter.json"
 hash = "1654bfd2dfbf6e38a2617816143a6e2281367a5769840e3cc1e8561d53e22ad9"
+
+[[files]]
+file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_land_food.json"
+hash = "925a0a2a43676b4b60a359f0dc651f63c3e4dd1d0dff61b2124b33ede9bb2aa3"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/origins/powers/orca_lungs.json"
@@ -1538,7 +1538,7 @@ hash = "50724cde0749c3a77b9a736da33684091bea7330cbca7f230483fcdc556843f4"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/tags/item/fish_foods.json"
-hash = "d900e9aa3ca63c6a49594e5f8f533e54dedc8ac09ed37cc2d424faed8de567b6"
+hash = "c335b857a9b857aedef34b99f83a9915b4fcdebf25ca82847d9bae154ede2ac9"
 
 [[files]]
 file = "config/originpacks/friend_races/data/friend_races/tags/item/orca_cooked_fish_bonus.json"
@@ -2746,7 +2746,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "bc0ed43619af3b5e453ccb36412d72aef8d066594946a927155d2fbd440e4b40"
+hash = "25c1b1c3ab00ed1a3b00ccc24c88421aca29f7fdbbc53cefc3589a8553688923"
 metafile = true
 
 [[files]]
@@ -3136,12 +3136,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "7ece7b8e65ac74bc1c705a3e25948ce5772c26ddf148514f29d90920ca1c3866"
+hash = "b2652a820301e1f47c3e6f37e217a30e9b2560f50823412ac73af7092bcd2233"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
+hash = "fd7473a15dd771e7a7f53159840799afffc62dda2abc4ee95d7ee0cbeac569b2"
 metafile = true
 
 [[files]]
