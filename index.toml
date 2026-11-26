@@ -2426,7 +2426,7 @@ metafile = true
 
 [[files]]
 file = "mods/cozy-cafe.pw.toml"
-hash = "36fe24bc4b97b749764691ff1cd22ba9d11506b475b190c92440f5eec02b4c15"
+hash = "cb98a0d0f9a10ff67b68ea571dc37f367951ee2eeb67b519f1d00d99d3c48fe1"
 metafile = true
 
 [[files]]
@@ -2536,7 +2536,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "553c7e590281e3fa5621f54ae34b8bbfa755baab952bc82ec178599bd346aeb3"
+hash = "ff2e6f93572fef4085df0a056fe1184305d59607f0c23fe68e1861a9e1b73e7e"
 metafile = true
 
 [[files]]
@@ -2711,7 +2711,7 @@ metafile = true
 
 [[files]]
 file = "mods/idas.pw.toml"
-hash = "f7a2068496599ff123dc33f4b65685c9bdf984bb03fd043a9af7e1c6660af71a"
+hash = "d6db79e687f35858e38456b2f8fe5a11ad2201ba9467a647637ab4ffd1cc0af4"
 metafile = true
 
 [[files]]
@@ -2736,7 +2736,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-api.pw.toml"
-hash = "f3b17c2dbcc3618721dab2718ce0890a112bc06ff66d03049636f1659dbad636"
+hash = "ad86b38e2fd005c6204e1bc60f561142d384cac7ff73c7fa400e3cb317a0f988"
 metafile = true
 
 [[files]]
@@ -2766,7 +2766,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "eea088a232447cc60e0e5243c6924a924b1658f45592b4e6ef97ada3441409e5"
+hash = "d742e8e4b1265a4f8f95bc5df0b32d1da02f4361c9f5310a7e13332761316bda"
 metafile = true
 
 [[files]]
@@ -2936,7 +2936,7 @@ metafile = true
 
 [[files]]
 file = "mods/neo-origins.pw.toml"
-hash = "2869649fac0e3eb4c9d3927ec9d56e605e3c94388fdb33dad15ed16af0b5a3aa"
+hash = "4456f69686e6c89cfa49819feb5f513b7d424df6b4521270109cd55efdcc8532"
 metafile = true
 
 [[files]]
@@ -2991,7 +2991,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "e9ae31ca87412a2a03b00a13e0c73ac122cad510c8cb9b93511345cc15d91ee1"
+hash = "0660d69fb12a906793231ea44c259eb79deda2ae59c717edf9f4d219dea35d18"
 metafile = true
 
 [[files]]
@@ -3091,12 +3091,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "6aba148930aeb000292b8862990ab4515ea033554b67b44dd3e59f16ef244778"
+hash = "6741d44ca22aa760867e35817cd95df5c551032c7bac44387e49dedbf8e09e5d"
 metafile = true
 
 [[files]]
 file = "mods/shatterbyte-lib.pw.toml"
-hash = "29f523ecd3d71741f54ec5b2671d1c69840cfac79af453beb2c4222df9278019"
+hash = "8f6cfad3e81dd742e0e8a633f3d272c414c422be16f03dc8edea8e210b962d68"
 metafile = true
 
 [[files]]
@@ -3131,12 +3131,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "b9d2d9c361ac465b572b7f010fc4ef1f91ef168fbc8d2591317e951aa569ee29"
+hash = "7dc8a391c1349fdc61e8e585ece70ebcb8ad85b6adfc584780d4ceca2ed758f0"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "3fc6fd4a464740bd6cfe89571517cfda837dbad69f0218ef1159b527b1be45d6"
+hash = "7def5310fc0e0a05419a690301a07c5348619295968f674fc0943a3b3f715da2"
 metafile = true
 
 [[files]]
@@ -3146,12 +3146,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "0a1237788f895c3a856423c1c7e60a11396c42e7526604543382237ada1aceff"
+hash = "65c41d1b44beac0643b10129ec2d6b60f456e8a55c6acf1740a932d39496b973"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "589ce9acb7d0fd2cb2323d871daba07615f5b7b5ed6a06cfa813740a4012c2fa"
+hash = "9793c029df34ef518f8333563e225d1b683fc5256ca5caf0fbb2fb3bd4d2e3cb"
 metafile = true
 
 [[files]]
@@ -3306,5 +3306,5 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
+hash = "b0a76eb179a5e3d6beb8704f07e587d0c29ce1b1bf256d53a05be41adfdf87d5"
 metafile = true
