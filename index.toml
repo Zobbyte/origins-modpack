@@ -413,6 +413,10 @@ file = "config/createdieselgenerators-server.toml"
 hash = "3ff7bfbdf8353dffba0809215ab4812f63443843128b3d40ae6b377aeda94855"
 
 [[files]]
+file = "config/createfood-common.toml"
+hash = "c706098160c2b0637a102a487057545c75831283312bf8b6bd0e95733cbff13c"
+
+[[files]]
 file = "config/creategoggles-client.toml"
 hash = "832c5d05e957524e8ee52b9715390fbcf22c2feadf4a1529f561f54764bbfaf0"
 
